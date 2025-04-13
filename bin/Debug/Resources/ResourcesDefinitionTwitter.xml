@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.twitter" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_transfer.png"
+       Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_transfer.png"/>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.twitter" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_twitter.png" />
+  <!--Custom Image Contact-->
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.twitter" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_twitter_square.png"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.twitter"  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_twitter_square.png"/>
+  <!--Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.twitter" Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/twitter.ico" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_twitter.png"/>
+  <!--It is new-->
+  <Value Id="TeamCommunicator.Images.Media.twitter" Source="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_twitter.png"/>
+  <Value Id="Twitter.Action.CancelUnsolicitedOutbound.Image"  Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_no.png" />
+  <Value Id="Twitter.Notifications.Favorited.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_stars.png"  />
+  <Value Id="Twitter.Notifications.Followed.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_follow.png"  />
+  <Value Id="Twitter.Notifications.NotFollowed.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_follow_disable.png"  />
+  <Value Id="Twitter.Action.Follow.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_follow.png" />
+  <Value Id="Twitter.Action.UnFollow.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_follow_disable.png" />
+  <Value Id="Twitter.Notifications.Follower.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_twitter.png" />
+  <Value Id="Twitter.Notifications.StatusesCount.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_twitter.png" />
+  <Value Id="Twitter.Notifications.FollowersCount.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_people.png"  />
+  <Value Id="Twitter.MenuItemNewUnsolicitedTweet.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_twitter_square.png"/>
+  <Value Id="Windows.Twitter.MenuItemMainDialerNewOutboundTwitter.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_twitter.png"/>
+  <Value Id="Windows.Twitter.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_no.png" />
+  <Value Id="Twitter.Notifications.CharsRemainingError.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_alert_octo.png" />
+  <Value Id="Twitter.Actions.RetweetWithComments.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_refresh_with_feedback.png"/>
+  <Value Id="Twitter.Actions.Retweet.Image"  Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_refresh.png"/>
+  <Value Id="Twitter.Actions.Reply.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_chat.png"/>
+  <Value Id="Twitter.Actions.ReplyToAll.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_chat_multi.png"/>
+  <Value Id="Twitter.Actions.DirectMessage.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_email.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.twitter.Image"
+       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_transfer.png"
+       Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_transfer.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.twitter.Image"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_workbin.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_twitter_workbin.png"/>
+</Dictionary>

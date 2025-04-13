@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <Emoticon Id=":)" Emoji="😊" />
+  <Emoticon Id=":]" Emoji="😊" />
+  <Emoticon Id="=)" Emoji="😊" />
+  <Emoticon Id=":-)" Emoji="😊" />
+
+  <Emoticon Id=";-)" Emoji="😉" />
+  <Emoticon Id=";)" Emoji="😉" />
+  
+  <Emoticon Id=":(" Emoji="😒" />
+  <Emoticon Id=":[" Emoji="😒" />
+  <Emoticon Id="=(" Emoji="😒" />
+  <Emoticon Id=":-(" Emoji="😒" />
+  
+  <Emoticon Id=":'(" Emoji="😢" />
+
+  <Emoticon Id="&lt;3" Emoji="❤" />
+
+  <Emoticon Id=":D" Emoji="😃" />
+  <Emoticon Id="=D" Emoji="😃" />
+  <Emoticon Id=":-D" Emoji="😃" />
+  
+  <Emoticon Id=":o" Emoji="😲" />
+  <Emoticon Id=":O" Emoji="😲" />
+  <Emoticon Id=":-o" Emoji="😲" />
+  <Emoticon Id=":-O" Emoji="😲" />
+  
+  <Emoticon Id=":*" Emoji="😘" />
+  <Emoticon Id=":-*" Emoji="😘" />
+  
+  <Emoticon Id=":v" Emoji="ᗧ" />
+
+  <Emoticon Id="&lt;(&#34;)" Emoji="🐧" />
+  
+  <Emoticon Id="(y)" Emoji="👍" />
+  <Emoticon Id="(Y)" Emoji="👍" />
+
+</root>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Channel.OpenMedia.WorkItem.Image.rss" ResourceKey="sm_ic_iw_active_circle_rss" />
+  <Value Id="Channel.OpenMedia.Bundle.rss" DisplayName="RSS" ResourceKey="sm_ic_iw_active_circle_rss"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.rss" ResourceKey="sm_ic_rss_square"/>
+  
+  <Value Id="InteractionWorkItem.MediaType.Image.rss"  ResourceKey="sm_ic_iw_active_circle_rss"/>
+  
+  <Value Id="InteractionWorkItem.Image.rss"  Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/RSS.ico"  ResourceKey="sm_ic_iw_active_circle_rss"/>
+
+
+  
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.rss" ResourceKey="sm_ic_iw_square_rss_transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.rss" ResourceKey="sm_ic_iw_square_rss_workbin"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.rss" ResourceKey="sm_ic_iw_square_rss_transfer" />
+
+  <Value Id="RSS.RSSMainImage.Image" ResourceKey="sm_ic_rss_square"/>
+  <Value Id="RSS.Actions.ShowInfo.Image" ResourceKey="sm_ic_alert_info" />
+</Dictionary>

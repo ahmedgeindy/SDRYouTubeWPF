@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+  <Value Id="Windows.ToolbarRSSView.Reply" ToolTip="Reply"/>
+
+  <Value Id="Windows.CustomWorkItemView.MediaType" Content="Media Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionType" Content="Interaction Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionSubType" Content="Interaction Sub-Type:"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.rss" ToolTip="Transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.rss" ToolTip="Move To Workbin In Progress"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.rss" Text="_Transfer" Tooltip="Transfer"/>
+
+  <!-- Help -->
+  <Value Id="Windows.RSS.HelpMenu" Header="Plug-In for RSS Help..." />
+
+</Dictionary>

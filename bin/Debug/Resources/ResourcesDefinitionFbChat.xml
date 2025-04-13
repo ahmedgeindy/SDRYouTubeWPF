@@ -1,0 +1,43 @@
+﻿<Dictionary>
+
+  <Value Id="Channel.OpenMedia.WorkItem.Image.facebooksession" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/fbsession.ico" />
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.facebooksession" ResourceKey="FbChatsession_square"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.facebooksession"  ResourceKey="FbChatsession_square"/>
+  <Value Id="InteractionWorkItem.Image.facebooksession"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/fbsession.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"
+         ResourceKey="FbChatsession_circle"/>
+
+  <Value Id="TeamCommunicator.Images.Media.facebooksession" ResourceKey="FbChatsession_circle"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebooksession" ResourceKey="FbChatsession_transfer"/>
+
+  <!--<Value Id="Button.Disconnect.facebooksession" ResourceKey="FbChatsession_disconnect"/>-->
+  <Value Id="Button.Disconnect.facebooksession"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_closesession.png"
+  Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_closesession.png"/>
+  <!--<Value Id="Button.Transfer.facebooksession" ResourceKey="FbChatsession_transfer"/>-->
+  <Value Id="Button.Transfer.facebooksession" 
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"
+  Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"/>
+  <Value Id="Button.Attach.facebooksession" ResourceKey="FbChatsession_button_attach"/>
+  <Value Id="Button.MoveToWorkbin.facebooksession" 
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_workbin.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_workbin.png"/>
+  <!--<Value Id="Button.MoveToWorkbin.facebooksession" ResourceKey="FbChatsession_movetoworkbin"/>-->
+  <Value Id="Button.Emoji.facebooksession" ResourceKey="FbChatsession_button_emoji"/>
+  <!--<Value Id="Button.Remove.facebooksession" ResourceKey="FbChatsession_button_close"/>-->
+  <Value Id="Button.Remove.facebooksession"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_close.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_close.png"/>
+  
+  <Value Id="Attachment.Image.facebooksession" ResourceKey="FbChatsession_image"/>
+  <Value Id="Attachment.Audio.facebooksession" ResourceKey="FbChatsession_audio"/>
+  <Value Id="Attachment.Video.facebooksession" ResourceKey="FbChatsession_video"/>
+  <Value Id="Attachment.Other.facebooksession" ResourceKey="FbChatsession_other"/>
+
+  <Value Id="Profile.Client.facebooksession" ResourceKey="FbChatsession_profile_client"/>
+  <Value Id="Profile.Agent.facebooksession" ResourceKey="FbChatsession_profile_agent"/>
+  <Value Id="Profile.External.facebooksession" ResourceKey="FbChatsession_profile_external"/>
+
+
+</Dictionary>

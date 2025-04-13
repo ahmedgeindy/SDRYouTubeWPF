@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <!--Actionability-->
+  <Value Id="SocialMedia.Notifications.Actionability.Actionable.Image" ResourceKey="sm_ic_actionable" />
+  <Value Id="SocialMedia.Notifications.Actionability.NotActionable.Image" ResourceKey="sm_ic_actionable_disable" />
+  <Value Id="SocialMedia.Notifications.Actionability.Undeclared.Image" ResourceKey="sm_ic_actionable_notset" />
+  <!--Sentiment-->
+  <Value Id="SocialMedia.Notifications.Sentiment.Negative.Image" ResourceKey="sm_ic_face_sad" />
+  <Value Id="SocialMedia.Notifications.Sentiment.Neutral.Image" ResourceKey="sm_ic_face_neutral" />
+  <Value Id="SocialMedia.Notifications.Sentiment.Positive.Image" ResourceKey="sm_ic_face_happy"  />
+  <Value Id="SocialMedia.Notifications.Sentiment.Undeclared.Image" ResourceKey="sm_ic_face_unknown" />
+
+  <!--Actions-->
+  <Value Id="SocialMedia.Actions.Close.Image" ResourceKey="sm_ic_close" />
+  <Value Id="SocialMedia.Actions.AddPicture.Image" ResourceKey="sm_ic_picture"/>
+  <Value Id="SocialMedia.Actions.ShowInfo.Image" ResourceKey="sm_ic_alert_info" />
+  <Value Id="SocialMedia.Actions.ShowImage.Image" ResourceKey="sm_ic_picture"/>
+
+  <Value Id="SocialMedia.MenuItemsPostUpdate.Image" ResourceKey="sm_ic_chat_edit"/>
+  <Value Id="SocialMedia.History.Outbound.Agent.Image" ResourceKey="sm_ic_agent" />
+  <Value Id="SocialMedia.Actions.RemovePicture.Image" ResourceKey="sm_ic_close" />
+
+
+
+</Dictionary>

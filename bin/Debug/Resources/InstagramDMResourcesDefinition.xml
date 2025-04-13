@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.instagramdm"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.instagramdm"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.instagramdm"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.instagramdm"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.instagramdm.Image"
+         ToolTip="InstagramDM Transfer"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.instagramdm"
+	       Text="InstagramDM Transfer" Tooltip="InstagramDM Transfer"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.instagramdm.Image"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_workbin.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm_workbin.png"/>
+
+  <Value Id="Common.Images.Agent" Source="pack://application:,,,/Genesyslab.Desktop.WPFCommon;component/Images/agent.png"/>
+  <Value Id="Common.Images.Contact" Source="pack://application:,,,/Genesyslab.Desktop.WPFCommon;component/Images/contact.png"/>
+  <Value Id="Common.Images.GenericPC" Source="pack://application:,,,/Genesyslab.Desktop.WPFCommon;component/Images/GenericPC.png"/>
+
+  
+</Dictionary>

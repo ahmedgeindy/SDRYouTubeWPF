@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+  <Value Id="SocialMedia.Error.NoMedia" ErrorCode="" ErrorMessage="No media available"/>
+  <Value Id="SocialMedia.Error.NoOpenMediaChannel" ErrorCode="" ErrorMessage="Interaction Server is unavailable"/>
+
+  <Value Id="SocialMedia.Error.Message" Text="{0}" />
+  <Value Id="SocialMedia.Error.Workbin.Interaction.Delete.Error" Text="Can't delete interaction" />
+  <Value Id="SocialMedia.Error.CannotResolveQueue" Text="Cannot resolve queue for submit" />
+  <Value Id="SocialMedia.Confirmation.DeleteInteraction" Message="Are you sure you want to delete this {0} interaction?"/>
+  <Value Id="SocialMedia.Confirmation.DeleteInteractions" Message="Are you sure you want to delete these {0} interactions?"/>
+  <Value Id="SocialMedia.Error.Workbin.Interaction.Delete.Error" Text="Can't delete interaction" />
+  <Value Id="SocialMedia.Error.ImageSizeTooLarge" ErrorCode="" ErrorMessage="Image file size is too large"/>
+  <Value Id="SocialMedia.Error.MultipleMediaAttachments" ErrorCode="" ErrorMessage="Multiple media attachments"/>
+  <Value Id="SocialMedia.Error.CantLoadPicture" ErrorCode="" ErrorMessage="Can't load image file"/>
+  <Value Id="SocialMedia.Error.UcsUnavailable" ErrorCode="" Text="Universal Contact Server Connection is unavailable"/>
+  <Value Id="SocialMedia.Error.AttachmentDoesNotExists" ErrorCode="" Text="Attachment file does not exists anymore"/>
+
+  <!--Attachments-->
+  <Value Id="SocialMedia.Actions.Attachment.Error" Text="File is too large to attach" />
+
+  <Value Id="SocialMedia.Notifications.Actionability.Actionable"  ToolTip="Actionability : Actionable" Header="Actionable" />
+  <Value Id="SocialMedia.Notifications.Actionability.NotActionable" ToolTip="Actionability : Not Actionable" Header="Not Actionable" />
+  <Value Id="SocialMedia.Notifications.Actionability.Undeclared" ToolTip="Actionability : Undeclared" Header="Undeclared" />
+
+
+  <Value Id="SocialMedia.Notifications.Sentiment.Negative" ToolTip="Sentiment : Negative" Header="Negative" />
+  <Value Id="SocialMedia.Notifications.Sentiment.Neutral" ToolTip="Sentiment : Neutral" Header="Neutral" />
+  <Value Id="SocialMedia.Notifications.Sentiment.Positive" ToolTip="Sentiment : Positive" Header="Positive" />
+  <Value Id="SocialMedia.Notifications.Sentiment.Undeclared" ToolTip="Sentiment : Undeclared" Header="Undeclared" />
+
+
+  <Value Id="SocialMedia.Actions.RemovePicture" ToolTip="Remove image" />
+  <Value Id="SocialMedia.Action.AddingPicture" Content="Loading..." />
+
+  <Value Id="SocialMedia.Actions.Close" ToolTip="Close" />
+  <Value Id="SocialMedia.Actions.AddPicture" ToolTip="Add Picture" Text="Add Picture" Header="Add Picture" />
+  <Value Id="SocialMedia.Actions.ShowInfo" ToolTip="Show info"  />
+  <Value Id="SocialMedia.Actions.ShowImage" ToolTip="Show Image" Text="Show Image" Header="Show Image" />
+  <Value Id="SocialMedia.Actions.HideImage" ToolTip="Hide Image" Text="Hide Image" Header="Hide Image" />
+
+  <Value Id="SocialMedia.MenuItemsPostUpdate" Text="Post Update" />
+
+  <!-- History view -->
+  <Value Id="SocialMedia.History.Outbound.Agent" ToolTip="Agent"/>
+
+  <Value Id="SocialMedia.InteractionPartyState" Text="Offline"/>
+
+  <Value Id="SocialMedia.Windows.HelpMenu" Header="Social Media Plug-in Help..." />
+</Dictionary>

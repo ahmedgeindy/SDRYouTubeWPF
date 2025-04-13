@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebooksession" Text="_Transfer" Tooltip="Transfer"/>
+
+  <Value Id="Windows.FacebookDMSession.ButtonTransfer" Text="Facebook _Transfer" ToolTip="Facebook Transfer" Name="Facebook Transfer {0}"/>
+  <Value Id="Windows.FacebookDMSession.ButtonSend" Content="S_end" ToolTip="Send" Name="Send"/>
+  <Value Id="Windows.FacebookDMSession.TextBoxMessage" Name="Message to Send"/>
+  <Value Id="Windows.FacebookDMSession.ErrorMessageIsOffLine" Text="This session is offline "/>
+  <!--Value Id="Windows.FacebookDMSession.MessageSytemExpiration" 0: client name 1:date"-->
+  <Value Id="Windows.FacebookDMSession.MessageSytemExpiration" Text="{0} has not sent any message since {1}. Facebook session has expired and is now over"/>
+  <Value Id="Windows.FacebookDMSession.MessageSessionDisconnected" Text="Facebook session has lost connection"/>
+
+  <Value Id="Windows.FacebookDMSession.MenuItemOneStepTransferDialer" Text="Facebook Session _Transfer" Tooltip="Transfer"/>
+
+  <Value Id="Windows.FacebookDMSession.CharactersRemaining" Text="Characters Remaining: {0}"/>
+  <Value Id="Windows.FacebookDMSession.Tooltip" Text="Sending message in {0} Facebook"/>
+  <Value Id="Windows.FacebookDMSession.HideRelatedFacebookDMSession" Text="Hide messages" ToolTip="Hide the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowRelatedFacebookDMSession" Text="Show messages" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptSingleMsgSingleHour" Text="1 message exchange with this contact in the past hour" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptMulMsgsSingleHour" Text="{0} message exchanges with this contact in the past hour" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptSingleMsgMulHours" Text="1 message exchange with this contact in the past {0} hours" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptMulMsgsMulHours" Text="{0} message exchanges with this contact in the past {1} hours" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptMulMsgsInfiniteHours" Text="{0} message exchanges with this contact in the past" ToolTip="Show the transcript messages"/>
+  <Value Id="Windows.FacebookDMSession.ShowTranscriptSingleMsgInfiniteHours" Text="1 message exchange with this contact in the past" ToolTip="Show the transcript messages"/>
+
+  <!--Value Id="Windows.FacebookDMSession.Tooltips" Text="Sending message in {0} Facebookes"/-->
+  <Value Id="Windows.FacebookDMSession.TooltipWarningMaxNoOfFacebookDMSessionReached" Text="You are over the characters number limit.&#xa;The maximum number of Facebook allowed per message is {0}."/>
+  <Value Id="Windows.FacebookDMSession.TooltipWarningMultipleFacebookDMSession" Text="You are over the characters number limit.&#xa;The text will be split and sent as {0} messages."/>
+
+  <Value Id="Windows.FacebookDMSession.MessageBoxConfirmDeleteFacebookDMSession" String="Are you sure you want to delete this Facebook?"/>
+  <Value Id="Windows.FacebookDMSession.MultipleFromNumbersLabel" Content="_From:" ToolTip="Select the phone number to be used as source for the Facebook"/>
+  <Value Id="Windows.FacebookDMSession.SingleFromNumberLabel" Content="_From:" ToolTip="The phone number to be used as source for the Facebook"/>
+  <Value Id="Windows.FacebookDMSession.SelectFromNumberToolTip" ToolTip="Select the source phone number"/>
+  <Value Id="Windows.FacebookDMSession.SelectFromNumberComboToolTip" ToolTip="Select the phone number from the list"/>
+  <Value Id="Windows.FacebookDMSession.ToNumberLabel" Content="To:" ToolTip="The destination phone number of the Facebook"/>
+  <Value Id="FacebookDMSession.Format.Subject.CharacterEllipsis" Text="{0}..."/>
+
+
+  <Value Id="Windows.CaseDataView.FacebookDMSession.PageMode" Text ="Facebook Page Mode"/>
+  <Value Id="Windows.CaseDataView.FacebookDMSession.SessionMode" Text ="Facebook Session Mode"/>
+
+  <!--Value Id="Warning.FacebookDMSessionActionAborted.OptionNotDefined" 0:name of the option that is not defined-->
+  <Value Id="Warning.FacebookDMSessionActionAborted.OptionNotDefined" Text="Action aborted: '{0}' option is not defined."/>
+  <!--Value Id="Warning.FacebookDMSessionActionAborted.ObjectNotFound" 0:object name, 1:option name-->
+  <Value Id="Warning.FacebookDMSessionActionAborted.ObjectNotFound" Text="Action aborted: object '{0}' defined in option '{1}' not found."/>
+  <!--Value Id="Warning.FacebookDMSessionActionAborted.ObjectIsEmpty" 0:object name, 1:option name  -->
+  <Value Id="Warning.FacebookDMSessionActionAborted.ObjectIsEmpty" Text="Action aborted: object '{0}' defined in option '{1}' is empty."/>
+  <!--Value Id="Warning.FacebookDMSessionActionAborted.ObjectContainsNoValidValues" 0:object name, 1:option name  -->
+  <Value Id="Warning.FacebookDMSessionActionAborted.ObjectContainsNoValidValues" Text="Action aborted: object '{0}' defined in option '{1}' contains no valid values."/>
+
+
+  <Value Id="Windows.PlaceStatusView.Child.Ready.facebooksession" ToolTipStatus="Session Mode"/>
+
+  <Value Id="Channel.OpenMedia.Name.facebooksession" DisplayName="facebook (session mode)"/>
+
+  <Value Id="Windows.Default.PromptForDone" String="Are you sure you want to mark this interaction done?"/>
+  <Value Id="Windows.facebooksession.PromptForDone" String="Are you sure you want to mark this Facebook Session done?"/>
+
+  <Value Id="Contact.InteractionInQueueView.MediaType.facebooksession" String="Facebook Session Mode"/>
+
+  <Value Id="Contacts.ContactDetailView.SummaryFacebookDMSessionSessionCallNoDuration" String="Facebook Session Mode exchange with {0}."/>
+  <Value Id="Contacts.ContactDetailView.SummaryFacebookDMSessionSessionCallNoDurationNoContact" String="Facebook Session Mode exchange."/>
+  <Value Id="Contacts.ContactDetailView.FacebookDMSessionMessageSytemExpiration" Text="{0} has not sent any message since {1}. Facebook session has expired and is now over"/>
+  <Value Id="Contacts.ContactDetailView.TitleFacebookDMSession" String="Facebook Session"/>
+</Dictionary>

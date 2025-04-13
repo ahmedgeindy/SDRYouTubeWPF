@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="DeploymentManager.ApplicationSettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <applicationSettings>
+    <DeploymentManager.ApplicationSettings>
+      <setting name="DeploymentName" serializeAs="String">
+        <value>Social Media Plug-in</value>
+      </setting>
+      <setting name="MandatoryFiles" serializeAs="Xml">
+        <value>
+          <ArrayOfApplicationFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.SocialMedia.module-config" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.SocialMedia.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.SocialMedia.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />		
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.Facebook.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />			
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.FacebookPM.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />			
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.facebooksession.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.FbChat.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />			
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.RSS.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />			
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.Twitter.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.TwitterDirect.en-US.xml" RelativePath="Languages" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.Facebook.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.FacebookPM.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.FbChat.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.FbMessenger.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.RSS.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.TwitterDirect.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+            <ApplicationFile FileName="Genesyslab.Desktop.Modules.Twitter.dll" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			
+			      <ApplicationFile FileName="Resources\EmoticonsEmojis.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85Facebook.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85FacebookPM.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85FbChat.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85RSS.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85SocialMedia.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85Twitter.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinition85TwitterDirect.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionFacebook.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionFacebookPM.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionFbChat.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionRSS.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionSocialMedia.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionTwitter.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			      <ApplicationFile FileName="Resources\ResourcesDefinitionTwitterDirect.xml" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="false" GroupName="SocialMediaPlugin" />
+			
+
+            
+          </ArrayOfApplicationFile>
+        </value>
+      </setting>
+    </DeploymentManager.ApplicationSettings>
+  </applicationSettings>
+</configuration>

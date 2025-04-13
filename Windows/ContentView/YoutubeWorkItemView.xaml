@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="Genesyslab.Desktop.Modules.YoutubeWorkItem.Windows.ContentView.YoutubeWorkItemView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:Controls="clr-namespace:Genesyslab.Desktop.Modules.YoutubeWorkItem.Controls"
+             Background="Transparent" DockPanel.Dock="Top" HorizontalAlignment="Stretch" VerticalAlignment="Top" 
+             MinWidth="300.0" MinHeight="300.0" >
+
+    <Controls:YoutubeView x:Name="MainYoutubeView" DataContext="{Binding YoutubeData}" Loaded="MainYoutubeView_Loaded"/>
+
+</UserControl>

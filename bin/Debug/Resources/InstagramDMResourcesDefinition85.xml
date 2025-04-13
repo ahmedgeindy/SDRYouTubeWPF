@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.instagramdm"
+  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.instagramdm"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.instagramdm"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.instagramdm"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramDMWorkItem;component/Images/instagramdm.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.instagramdm.Image" ToolTip="InstagramDM Transfer" ResourceKey="instagramdm_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.instagramdm" ToolTip="InstagramDM Transfer" ResourceKey="instagramdm_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.instagramdm.Image" ResourceKey="instagramdm_workbin"/>
+
+  <Value Id="Common.Images.Agent" ResourceKey="Common.Agent" />
+  <Value Id="Common.Images.Contact" ResourceKey="Common.Contact.Card" />
+  <Value Id="Common.Images.GenericPC" ResourceKey="Common.GenericPC"/>
+  
+</Dictionary>

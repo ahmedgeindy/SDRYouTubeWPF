@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Channel.OpenMedia.WorkItem.Image.facebookprivatemessage" ResourceKey="sm_ic_iw_square_facebook_email" />
+  <Value Id="Channel.OpenMedia.Bundle.facebookprivatemessage" DisplayName="Facebook PM" ResourceKey="sm_ic_iw_square_facebook_email"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.facebookprivatemessage" ResourceKey="sm_ic_iw_square_facebook_email"/>
+  
+  <Value Id="InteractionWorkItem.MediaType.Image.facebookprivatemessage"  ResourceKey="sm_ic_iw_square_facebook_email"/>
+  
+  <Value Id="InteractionWorkItem.Image.facebookprivatemessage"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/facebook.ico"
+         ResourceKey="sm_ic_iw_square_facebook_email"/>
+ 
+  
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebookprivatemessage.Image" ResourceKey="sm_ic_iw_square_facebook_transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebookprivatemessage.Image" ResourceKey="sm_ic_iw_square_facebook_workbin"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebookprivatemessage.Image" ResourceKey="sm_ic_iw_square_facebook_transfer" />
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebookprivatemessage"  ResourceKey="sm_ic_iw_square_facebook_transfer"/>
+
+  <Value Id="FacebookPM.Actions.CancelUnsolicitedOutbound.Image" ResourceKey="sm_ic_iw_square_facebook_no"/>
+  
+  <Value Id="Windows.FacebookPM.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ResourceKey="sm_ic_iw_square_facebook_no" />
+  <Value Id="Windows.FacebookPM.MenuItemMainDialerNewOutboundFacebookPM.Image" ResourceKey="sm_ic_iw_square_facebook_email"/>
+
+</Dictionary>

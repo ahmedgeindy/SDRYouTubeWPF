@@ -1,0 +1,52 @@
+﻿<ToolBar x:Class="Genesyslab.Desktop.Modules.YoutubeWorkItem.Windows.ContentView.Toolbar.YoutubeInboundToolbarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:common="clr-namespace:Genesyslab.Desktop.WPFCommon;assembly=Genesyslab.Desktop.WPFCommon"
+             xmlns:commonControls="clr-namespace:Genesyslab.Desktop.WPFCommon.Controls;assembly=Genesyslab.Desktop.WPFCommon"
+             xmlns:localization="clr-namespace:Tomers.WPF.Localization;assembly=Tomers.WPF.Localization"
+             xmlns:SolutionConverters="clr-namespace:Genesyslab.Desktop.Modules.SocialMedia.Converters;assembly=Genesyslab.Desktop.Modules.SocialMedia"
+             Loaded="ToolBar_Loaded" Unloaded="ToolBar_Unloaded" common:HelpProvider.HelpString="/Workitems.htm"
+             Style="{DynamicResource BundleToolBarStyle}" Background="{DynamicResource BundleToolbarBrush}"
+             Height="300" Width="300">
+
+    <FrameworkElement.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <common:DesignTimeResourceDictionary Source="/Genesyslab.Desktop.WPFCommon;component/themes/classic.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <common:VisibilityConverter x:Key="visibilityConverter"/>
+            <SolutionConverters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+            <SolutionConverters:BoolToOppositeBoolConverter x:Key="BoolToOppositeBoolConverter"/>
+            <common:RelativeSizeUsingFontSizeRatioOptionConverter x:Key="relativeSizeConverter"/>
+        </ResourceDictionary>
+    </FrameworkElement.Resources>
+    <ContentControl Visibility="{Binding Interaction.IsTransferring, Converter={StaticResource BoolToVisibilityConverter}, ConverterParameter=Opposite}">
+        <ContentControl Visibility="{Binding Interaction.IsItPossibleToOneStepTransfer, Converter={StaticResource BoolToVisibilityConverter}}">
+            <commonControls:InteractionToolBarButton Click="buttonTransfer_Click" x:Name="buttonTransfer"
+                                               localization:Translate.Uid="Windows.ToolbarWorkitemView.ButtonTransfer.youtube"
+                                               ButtonStyle="{Binding ButtonStyle}" ToolTip="{localization:Translate Default='Default Transfer'}">
+                <StackPanel Focusable="false" Orientation="Horizontal">
+                    <commonControls:MagicImageUid Source="Windows.ToolbarWorkitemView.ButtonTransfer.youtube.Image" Width="24" Height="24"
+                                        Stretch="None"/>
+                    <Path VerticalAlignment="Center" Margin="3" Data="M 0,0 L 3,3 6,0 Z"
+                Width="{Binding Source=8, Converter={StaticResource relativeSizeConverter}}"
+                Height="{Binding Source=4, Converter={StaticResource relativeSizeConverter}}"
+                Fill="{Binding Foreground, ElementName=buttonTransfer}"/>
+                </StackPanel>
+            </commonControls:InteractionToolBarButton>
+        </ContentControl>
+    </ContentControl>
+    <ContentControl Visibility="{Binding Interaction.IsItPossibleToMoveToWorkbin, Converter={StaticResource BoolToVisibilityConverter}}">
+        <commonControls:InteractionToolBarButton Click="buttonMoveToWorkbin_Click" x:Name="buttonMoveToWorkbin"
+                                             localization:Translate.Uid="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.youtube"
+                                             ButtonStyle="{Binding ButtonStyle}"
+                                             ToolTip="{localization:Translate Default='Default Move to Workbin'}"
+                                             IsEnabled="{Binding Path=Interaction.IsItPossibleToMoveToWorkbin}">
+            <StackPanel Focusable="false" Orientation="Horizontal">
+                <commonControls:MagicImageUid Source="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.youtube.Image" Width="24" Height="24"
+                                      Stretch="None"/>
+            </StackPanel>
+        </commonControls:InteractionToolBarButton>
+    </ContentControl>
+
+</ToolBar>

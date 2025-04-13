@@ -1,0 +1,25 @@
+﻿<TextBlock x:Class="Genesyslab.Desktop.Modules.YoutubeWorkItem.Controls.DeleteInfo"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+           xmlns:Objects="clr-namespace:Genesyslab.Desktop.Modules.Sdr.Common.Objects;assembly=Genesyslab.Desktop.Modules.Sdr.Common"
+           xmlns:localization="clr-namespace:Tomers.WPF.Localization;assembly=Tomers.WPF.Localization"
+           VerticalAlignment="Center" Margin="5,0,0,0" Foreground="Gray"
+           x:Name="DeleteInfoControl">
+
+    <Run x:Name="DeletedRun" FontWeight="Bold" FontSize="10"  
+         localization:Translate.Uid="Youtube.Actions.Deleted"
+         Text="{localization:Translate Default=DELTED}"/>
+
+    <Run x:Name="AtRun" 
+         localization:Translate.Uid="Youtube.Actions.At"
+         Text="{localization:Translate Default=AT}" FontSize="10"/>
+
+    <Objects:BindableRun BoundText="{Binding DeletedAtText, FallbackValue=Unknown}" FontSize="10"/>
+
+    <Run x:Name="ByRun" 
+         localization:Translate.Uid="Youtube.Actions.By"
+         Text="{localization:Translate Default=BY}" FontSize="10"/>
+
+    <Objects:BindableRun FontSize="10" BoundText="{Binding DeletedBy, FallbackValue=Unknown}"/>
+
+    </TextBlock>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+
+	<configSections>
+    <section name="themes" type="Genesyslab.Desktop.Infrastructure.Theming.ThemesSection, Genesyslab.Desktop.Infrastructure" />
+		<section name="modules" type="Microsoft.Practices.Composite.Modularity.ModulesConfigurationSection, Microsoft.Practices.Composite" />
+		<section name="tasks" type="Genesyslab.Desktop.Infrastructure.Config.TasksSection, Genesyslab.Desktop.Infrastructure" />
+	</configSections>
+
+	<tasks>
+		<!-- If the task 'InteractionWorkspace.ExtensionSample.canUse' is granted,
+				the bootstrap downloads the files in the group 'clickOnceGroupsToDownload' if any,
+				and then, the module in the 'modulesToLoad' list are loaded.
+				'clickOnceGroupsToDownload' and 'modulesToLoad' are a coma separated lists -->
+
+   <!-- <task name="InteractionWorkspace.WorkItem.canUse" clickOnceGroupsToDownload="instagram" modulesToLoad="InstagramWorkItemModule" />-->
+    <task name="InteractionWorkspace.WorkItem.canUse" clickOnceGroupsToDownload="instagram" modulesToLoad="InstagramWorkItemModule" />
+  </tasks>
+
+	<modules>
+		<!-- Uncomment the following to load the module if the corresponding task is granted -->
+		<module assemblyFile="Genesyslab.Desktop.Modules.InstagramWorkItem.dll"
+				moduleType="Genesyslab.Desktop.Modules.InstagramWorkItem.InstagramWorkItemModule"
+				moduleName="InstagramWorkItemModule"
+				startupLoaded="false"/>
+	</modules>
+  <themes>
+    <theme name="Default" >
+      <xmlDictionaries>
+        <xmlDictionary name="instagram" path=".\Resources\InstagramResourcesDefinition85.xml"></xmlDictionary>
+      </xmlDictionaries>
+      <extensionResourceDictionaries>
+        <extensionResourceDictionary name="instagram"  path="/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Resources/InstagramTransferVector.xaml"></extensionResourceDictionary>
+      </extensionResourceDictionaries>
+    </theme>
+    <theme name="HighContrast" >
+      <xmlDictionaries>
+        <xmlDictionary name="instagram" path=".\Resources\InstagramResourcesDefinition85.xml"></xmlDictionary>
+      </xmlDictionaries>
+      <extensionResourceDictionaries>
+        <extensionResourceDictionary name="instagram"  path="/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Resources/InstagramTransferVector.xaml"></extensionResourceDictionary>
+      </extensionResourceDictionaries>
+    </theme>
+    <theme name="Blue" >
+      <xmlDictionaries>
+        <xmlDictionary name="instagram" path=".\Resources\InstagramResourcesDefinition.xml"></xmlDictionary>
+      </xmlDictionaries>
+    </theme>
+    <theme name="Royale">
+      <xmlDictionaries>
+        <xmlDictionary name="instagram" path=".\Resources\InstagramResourcesDefinition.xml"></xmlDictionary>
+      </xmlDictionaries>
+    </theme>
+    <theme name="Fancy" >
+      <xmlDictionaries>
+        <xmlDictionary name="instagram" path=".\Resources\InstagramResourcesDefinition.xml"></xmlDictionary>
+      </xmlDictionaries>
+    </theme>
+  </themes>
+</configuration>

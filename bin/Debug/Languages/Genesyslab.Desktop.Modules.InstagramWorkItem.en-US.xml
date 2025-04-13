@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.instagram" ToolTip="Instagram Transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.instagram" ToolTip="Move To Workbin"/>
+  <Value Id="Instagram.Actions.CancelUnsolicitedOutbound" ToolTip="Delete"/>
+
+  <Value Id="Windows.Instagram.Workbin.MenuItemInteractionActionFromWorkbinDelete" Text="Delete" ToolTip="Delete"/>
+  
+  <Value Id="Instagram.Actions.Reply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="Instagram.Actions.Comment" ToolTip="Comment" Text="Comment" Header="Comment" />
+  <Value Id="Instagram.Actions.Send" ToolTip="Send" Text="Send" Header="Send" />
+
+  <!-- Edit box actions -->
+  <Value Id="Instagram.Actions.SendReply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="Instagram.Actions.SendComment" ToolTip="Comment" Text="Comment" Header="Comment" />
+  
+  <Value Id="Instagram.Actions.Delete" ToolTip="Delete" Text="Delete" Header="Delete" />
+  <Value Id="Instagram.Actions.Delete.CofirmationWarningComment" Title="Delete" Text="Are you sure you want to delete this comment?" />
+  <Value Id="Instagram.Actions.Delete.CofirmationWarningReply" Title="Delete" Text="Are you sure you want to delete this reply?" />
+  
+  <Value Id="Instagram.Actions.Delete.Error" Text="Can't delete" />
+
+
+  <Value Id="Instagram.Actions.Deleted" Text="Deleted" Header="Deleted"  />
+  <Value Id="Instagram.Actions.At" Text="at" Header="at" />
+  <Value Id="Instagram.Actions.By" Text="by" Header="by"  />
+  
+</Dictionary>

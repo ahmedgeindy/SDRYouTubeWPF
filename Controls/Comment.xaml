@@ -1,0 +1,128 @@
+﻿<UserControl x:Class="Genesyslab.Desktop.Modules.YoutubeWorkItem.Controls.Comment"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:DeleteControl="clr-namespace:Genesyslab.Desktop.Modules.YoutubeWorkItem.Controls"
+             xmlns:common="clr-namespace:Genesyslab.Desktop.Modules.Sdr.Common.Controls;assembly=Genesyslab.Desktop.Modules.Sdr.Common"
+             xmlns:localization="clr-namespace:Tomers.WPF.Localization;assembly=Tomers.WPF.Localization" >
+    <FrameworkElement.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Resources/YoutubeMainStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </FrameworkElement.Resources>
+
+    <Grid x:Name="CommentChatBox" Margin="1" Height="Auto"
+          MaxWidth="{Binding Path=Width, RelativeSource={RelativeSource AncestorType={x:Type UserControl}, Mode=FindAncestor}}">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="24"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <common:AuthorImage Grid.Column="0" VerticalAlignment="Top" Width="24" Height="24" DataContext="{Binding AuthorImage}"/>
+
+        <!-- Speech bubble rectangle -->
+        <Border Grid.Column="1" CornerRadius="2" Margin="5 0" MinWidth="250" 
+                HorizontalAlignment="Stretch"
+                BorderThickness="1" Background="White" 
+                Height="Auto">
+            <Border.BorderBrush>
+                <SolidColorBrush Color="Transparent"/>
+            </Border.BorderBrush>
+            <Border.Effect>
+                <DropShadowEffect Color="Gray" ShadowDepth="1"  Opacity="0.5"/>
+            </Border.Effect>
+
+            <StackPanel Margin="5">
+                <TextBlock VerticalAlignment="Center" TextWrapping="Wrap" Height="Auto">
+                                    <InlineUIContainer BaselineAlignment ="Top">
+                                        <TextBlock VerticalAlignment="Top"
+                                               TextWrapping="Wrap"
+                                               Height="Auto"
+                                               FontWeight="Bold"
+                                               Foreground="Black"
+                                               Text="{Binding AuthorName}"/>                             
+                                    </InlineUIContainer>
+                                </TextBlock>
+
+                <ScrollViewer MaxHeight="200" Margin="2 0 -1 0" Padding="0">
+                    
+                    <TextBox VerticalAlignment="Top" TextWrapping="Wrap"
+                         x:Name="CommentTextBox"
+                         Height="Auto" Foreground="#313335"
+                         Background="Transparent" BorderBrush="Transparent"
+                         BorderThickness="0" Margin="0" Padding="0"
+                         IsReadOnly="{Binding IsReplyTextReadOnly}"
+                         Cursor="{Binding ReplyCurser}"
+                         MaxLength="10000"
+                         Text="{Binding Text}"/>
+
+                </ScrollViewer>
+
+                <Separator Margin="0 5" Background="Gray" Opacity="0.5"/>
+                <!--Buttons and date-->
+                <Grid Margin="0 0 0 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0" Text="{Binding DateText}"
+                                   Margin="0"
+                                   Foreground="#86888a"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Left"
+                                   FontSize="10"/>
+
+                    <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right">
+
+                        <DeleteControl:DeleteInfo x:Name="CommentDeleteInfo" Visibility="{Binding DeleteDetailsVisibilty}"/>
+                      <!--  Visibility="{Binding LikeButtonVisibilty}"-->
+
+                        <common:IconButton x:Name="LikeBtn" Style="{StaticResource YoutubeLikeButton}"
+                                           IsEnabled="{Binding CanLike}"
+                                           Visibility="Hidden"
+                                           localization:Translate.Uid="Youtube.Actions.Like"
+                                           ButtonText="{localization:Translate Default=Like}"
+                                           ToolTip="{localization:Translate Default=Like}"
+                                           Click="LikeBtn_Clicked"/>
+
+                        <common:IconButton x:Name="ReplyBtn" Foreground="Gray" 
+                                           Style="{StaticResource CommentButton}"
+                                                Visibility="{Binding ReplyButtonVisibilty}"
+                                                localization:Translate.Uid="Youtube.Actions.Reply"
+                                                ButtonText="{localization:Translate Default=Reply}"
+                                                ToolTip="{localization:Translate Default=Reply}"
+                                                Click="ReplyBtn_Clicked"/>
+
+                        <common:IconButton x:Name="DeleteBtn" Foreground="Gray" 
+                                           Style="{StaticResource DeleteButton}"
+                                               Visibility="{Binding DeleteButtonVisibilty}"
+                                               localization:Translate.Uid="Youtube.Actions.Delete"
+                                               ButtonText="{localization:Translate Default=Delete}"
+                                               ToolTip="{localization:Translate Default=Delete}"
+                                               Click="DeleteBtn_Clicked"/>
+
+                        <common:EmojiPicker Margin="4" Visibility="{Binding ElementName=SendBtn, Path=Visibility}" Fill="Gray"  
+                                              SelectionChanged="EmojiPicker_SelectionChanged" HorizontalAlignment="Right"/>
+
+                        <common:IconButton x:Name="SendBtn" Foreground="Gray" 
+                                           Style="{StaticResource SendButton}"
+                                             Visibility="{Binding SendButtonVisibility}"
+                                             localization:Translate.Uid="Youtube.Actions.Send"
+                                             ButtonText="{localization:Translate Default=Send}"
+                                             ToolTip="{localization:Translate Default=Send}"
+                                             Click="SendBtn_Clicked"
+                                             />
+
+                    </StackPanel>
+
+
+                </Grid>
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</UserControl>

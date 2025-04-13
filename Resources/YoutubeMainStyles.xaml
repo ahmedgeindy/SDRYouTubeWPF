@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:common="clr-namespace:Genesyslab.Desktop.Modules.Sdr.Common.Controls;assembly=Genesyslab.Desktop.Modules.Sdr.Common">
+    
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Genesyslab.Desktop.Modules.Sdr.Common;component/Themes/IconButtonStyles.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Genesyslab.Desktop.Modules.Sdr.Common;component/Themes/ScrollbarStyles.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <SolidColorBrush x:Key="youtubeRed" Color="#FF0000"/>
+
+    <SolidColorBrush x:Key="youtubeBlack" Color="#282828"/>
+
+    <Style x:Key="YoutubeLikeButton" TargetType="{x:Type common:IconButton}" BasedOn="{StaticResource LikeButton}">
+
+        <Setter Property="ButtonText" Value="Like"/>
+
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding IsLiked}" Value="True">
+                <Setter Property="Foreground" Value="{StaticResource youtubeBlack}"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding IsLiked}" Value="False">
+                <Setter Property="Foreground" Value="Gray"/>
+            </DataTrigger>
+        </Style.Triggers>
+
+    </Style>
+    
+</ResourceDictionary>

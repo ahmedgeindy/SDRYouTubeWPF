@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+
+
+   <Value Id="Windows.ToolbarfacebookprivatemessageView.Reply" ToolTip="Reply"  />
+
+  <Value Id="Windows.CustomWorkItemView.MediaType" Content="Media Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionType" Content="Interaction Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionSubType" Content="Interaction Sub-Type:" />
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebookprivatemessage" ToolTip="Transfer"></Value>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebookprivatemessage" ToolTip="Move To Workbin"></Value>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebookprivatemessage" Text="_Transfer" Tooltip="Transfer"/>
+
+
+
+
+
+
+
+  <!-- Errors -->
+  <Value Id="FacebookPM.Error.Follow" ErrorCode="" ErrorMessage="Can't follow facebookprivatemessage user"/>
+  <Value Id="FacebookPM.Error.UnFollow" ErrorCode="" ErrorMessage="Can't unfollow facebookprivatemessage user"/>
+  <Value Id="FacebookPM.Error.NoMedia" ErrorCode="" ErrorMessage="No media available"/>
+  <Value Id="FacebookPM.Error.NoAccountList" ErrorCode="" ErrorMessage="Can't get facebookprivatemessage accounts from server"/>
+  <Value Id="FacebookPM.Error.MissingAttachedData" ErrorCode="" ErrorMessage="Can't find mandatory attached data attributes"/>
+
+
+  <!-- Confirmations -->
+  
+  <!-- Outbound -->
+  <Value Id="FacebookPM.Outbound.Timeline" Content="Timeline:" />
+  <Value Id="FacebookPM.Outbound.From" Content="From:" />
+
+
+  <!-- Actions -->
+  <Value Id="FacebookPM.Actions.SendReply" ToolTip="Send Reply" Content="Send Reply" />
+  <Value Id="FacebookPM.Actions.SendReplyToAll" ToolTip="Send Reply to All" Content="Send Reply to All" />
+  <Value Id="FacebookPM.Actions.SendDirectMessage" ToolTip="Send Direct Message" Content="Send Direct Message" />
+  <Value Id="FacebookPM.Actions.SendRetweet" ToolTip="Send Retweet" Content="Retweet" />
+  <Value Id="FacebookPM.Actions.SendRetweetQuestion" BoundText="Retweet this to your followers?" />
+  <Value Id="FacebookPM.Actions.CancelRetweet" ToolTip="Cancel Retweet" Content="Cancel" />
+  <Value Id="FacebookPM.Actions.SendRetweetWithComments" ToolTip="Send Retweet with Comments" Content="Send Retweet with Comments" />
+
+  <Value Id="FacebookPM.Actions.Reply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="FacebookPM.Actions.ReplyToAll" ToolTip="Reply to all" Text="Reply To All" Header="Reply To All" />
+  <Value Id="FacebookPM.Actions.DirectMessage" ToolTip="Send Direct Message" Text="Send Direct Message" Header="Send Direct Message" />
+  <Value Id="FacebookPM.Actions.Retweet" ToolTip="Retweet" Text="Retweet" Header="Retweet" />
+  <Value Id="FacebookPM.Actions.RetweetWithComments" ToolTip="Retweet with Comments" Text="Retweet with Comments" Header="Retweet with Comments" />
+
+  <Value Id="FacebookPM.Action.Follow" ToolTip="Follow" Header="Follow"/>
+  <Value Id="FacebookPM.Action.UnFollow" ToolTip="Unfollow" Header="Unfollow"/>
+  <!-- new -->
+  <Value Id="FacebookPM.Action.CancelUnsolicitedOutbound"  ToolTip="Delete"/>
+  <Value Id="FacebookPM.Actions.Send" ToolTip="Send" Content="Send" />
+  <Value Id="FacebookPM.Actions.CharsRemaining" ToolTip="Characters remaining" Text="Characters remaining:" />
+
+
+
+
+  <!-- Notifications Controls -->
+  <Value Id="FacebookPM.Notifications.Followed"  ToolTip="Followed" />
+  <Value Id="FacebookPM.Notifications.NotFollowed"  ToolTip="Not Followed" />
+
+  <Value Id="FacebookPM.Notifications.StatusesCount" ToolTip="Statuses Count"/>
+  <Value Id="FacebookPM.Notifications.FollowersCount" ToolTip="Followers Count" />
+
+  <Value Id="FacebookPM.Notifications.Follower" ToolTip="Follower" />
+
+  <Value Id="FacebookPM.Notifications.CharsRemaining" BoundText="Characters Remaining :" />
+  <Value Id="FacebookPM.Notifications.CharsRemainingError" ToolTip="You are over the characters number limit." />
+
+
+  <!-- Help -->
+  <Value Id="Windows.FacebookPM.HelpMenu" Header="Plug-In for FacebookPM Help..." />
+
+  <!-- NB Menu -->
+  <Value Id="Windows.FacebookPM.MenuItemMainDialerNewOutboundFacebookPM" Text="Facebook Private Message" ToolTip="Create a new Facebook Private Message" Tooltip="Create a new Facebook Private Message" />
+  <Value Id="FacebookPM.Action.AddingPicture" Content="Loading..." />
+  <Value Id="FacebookPM.MenuItemNewUnsolicitedFacebookPM" Text="Facebook Private Message" />
+
+
+  <!-- Workbin Action -->
+  <Value Id="Windows.FacebookPM.Workbin.MenuItemInteractionActionFromWorkbinDelete" Text="Delete" ToolTip="Delete" />
+
+  <Value Id="Channel.OpenMedia.Name.facebookprivatemessage" ToolTip="" Text="Display name:" />
+
+</Dictionary>
+

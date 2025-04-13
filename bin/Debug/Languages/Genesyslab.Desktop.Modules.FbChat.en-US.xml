@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebooksession"  Text="FbChat _Transfer" Tooltip="FbChat Transfer" />
+
+  <Value Id="Message.Joined.facebooksession" Text="Joined the session" />
+  <Value Id="Message.Left.facebooksession" Text="Left the session" />
+  <Value Id="Message.Connected.facebooksession" Text="Connected" />
+  <Value Id="Message.Disconnected.facebooksession" Text="Disconnected" />
+
+  <Value Id="MessageType.Bot.facebooksession" Text="Chat Bot" />
+  <Value Id="MessageType.Internal.facebooksession" Text="Internal" />
+  <Value Id="MessageType.Delayed.facebooksession" Text="Original Sent time" />
+
+  <Value Id="Error.Message.facebooksession" Text="{0}" />
+  <Value Id="Error.NoSession.facebooksession" Text="Could not connect to chat session. No such session exists" />
+  <Value Id="Error.WorkbinDelete.facebooksession" Text="Can't delete interaction in workbin" />
+  <Value Id="Error.IncorrectFileSize.facebooksession" Text="File size is too large" />
+  <Value Id="Error.IncorrectFileType.facebooksession" Text="File extension is not supported" />
+  <Value Id="Error.CantSaveAttachmentInUCS.facebooksession" Text="Can't save attachment file in UCS" />
+
+  <Value Id="Error.CantReconnectToChatServer.facebooksession" Text="It is not possible to join the session" />
+  <Value Id="Error.UnknownError.facebooksession" Text="The application has encountered an unknown error. '{0}'" />
+  <Value Id="Error.SimpleUnknownError.facebooksession" Text="The application has encountered an unknown error" />
+
+  <Value Id="Error.40003.facebooksession" Text="Invalid Open ID" />
+  <Value Id="Error.40004.facebooksession" Text="Invalid media file type" />
+  <Value Id="Error.40005.facebooksession" Text="Invalid file type" />
+  <Value Id="Error.40006.facebooksession" Text="Invalid file size" />
+  <Value Id="Error.40009.facebooksession" Text="Invalid image file size" />
+  <Value Id="Error.40010.facebooksession" Text="Invalid audio file size" />
+  <Value Id="Error.40011.facebooksession" Text="Invalid video file size" />
+  <Value Id="Error.44001.facebooksession" Text="Multimedia file is empty" />
+  <Value Id="Error.44004.facebooksession" Text="Text message is empty" />
+  <Value Id="Error.45001.facebooksession" Text="Error source: multimedia file size" />
+  <Value Id="Error.45002.facebooksession" Text="Message contents too long" />
+  <Value Id="Error.45015.facebooksession" Text="Response too late" />
+  <Value Id="Error.46004.facebooksession" Text="This user doesn't exist." />
+  <Value Id="Error.61457.facebooksession" Text="Invalid image file type (invalid file type)" />
+
+
+  <Value Id="Notice.LostConnectionToChat.facebooksession" Text="Lost connection to Chat Server, trying to reconnect ..." />
+
+  <Value Id="Notice.IdleControlClose.facebooksession" Text="Chat session closed due to inactivity of chat participants." />
+  <Value Id="Notice.IdleControlAlert.facebooksession" Text="Chat session will be closed soon due to inactivity of chat participants." />
+  <Value Id="Notice.FailedToDeliverMessage.facebooksession" Text="Failed to deliver message to client." />
+
+
+
+  <Value Id="Confirmation.DeleteInteraction.facebooksession" Text="Are you sure you want to delete this {0} interaction?"/>
+  <Value Id="Confirmation.DeleteInteractions.facebooksession" Text="Are you sure you want to delete these FbChat interactions?"/>
+
+
+  <!-- History view -->
+  <Value Id="Windows.HelpMenu.facebooksession" Text="FbChat Plug-in Help..." />
+
+  <!--Buttons-->
+  <Value Id="Button.Disconnect.facebooksession" ToolTip="Disconnect Session"/>
+  <Value Id="Button.MoveToWorkbin.facebooksession" ToolTip="Move To Workbin"/>
+  <Value Id="Button.Transfer.facebooksession" ToolTip="Transfer"/>
+  <Value Id="Button.Send.facebooksession" Text="Send" ToolTip="Send"/>
+  <Value Id="Button.Attach.facebooksession" Text="Send File" ToolTip="Send file as attachment"/>
+  <Value Id="Button.Emoji.facebooksession" Text="Add Emoji" ToolTip="Add Emoji"/>
+  <Value Id="Button.Remove.facebooksession" Text="Remove" ToolTip="Remove"/>
+  <Value Id="Button.GetMoreInteractions.facebooksession" Text="see older messsages..." ToolTip="see older messsages..."/>
+
+  <Value Id="Filter.Multimedia.facebooksession" Text="Multimedia Files" ToolTip="Multimedia Files"/>
+
+  <Value Id="Attachment.SaveAs.facebooksession" Text="Save as..." ToolTip="Save file on local drive"/>
+
+
+
+</Dictionary>

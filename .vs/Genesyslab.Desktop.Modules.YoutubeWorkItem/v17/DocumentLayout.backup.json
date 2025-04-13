@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YouTube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\windows\\contentview\\youtubeworkitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubeworkitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|d:\\youtube\\controls\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\viewmodels\\youtubeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:viewmodels\\youtubeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|d:\\youtube\\windows\\contentview\\youtubeworkitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubeworkitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\interactions\\interactionyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\interactionyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|d:\\youtube\\controls\\youtubeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\youtubeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\interactions\\interactionoutboundyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\interactionoutboundyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|d:\\youtube\\viewmodels\\youtubeworkitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:viewmodels\\youtubeworkitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\controls\\youtubeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\youtubeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\interactions\\outboundinteractionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\outboundinteractionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\controlextensions\\interactionoutboundyoutubecontrolextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controlextensions\\interactionoutboundyoutubecontrolextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\controlextensions\\toastercontrollerinteractionoutboundyoutubeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controlextensions\\toastercontrollerinteractionoutboundyoutubeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\controls\\addcomment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\addcomment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\youtubeworkitemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:youtubeworkitemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\commands\\youtubeespcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:commands\\youtubeespcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\languages\\genesyslab.desktop.modules.youtubeworkitem.en-us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:languages\\genesyslab.desktop.modules.youtubeworkitem.en-us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|D:\\YouTube\\windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 520,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.xaml",
+              "DocumentMoniker": "D:\\YouTube\\Controls\\Comment.xaml",
+              "RelativeDocumentMoniker": "Controls\\Comment.xaml",
+              "ToolTip": "D:\\YouTube\\Controls\\Comment.xaml",
+              "RelativeToolTip": "Controls\\Comment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:40:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YoutubeWorkItemView.xaml",
+              "DocumentMoniker": "D:\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "ToolTip": "D:\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:35:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeViewModel.cs",
+              "DocumentMoniker": "D:\\YouTube\\ViewModels\\YoutubeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\YoutubeViewModel.cs",
+              "ToolTip": "D:\\YouTube\\ViewModels\\YoutubeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\YoutubeViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:51:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractionYoutube.cs",
+              "DocumentMoniker": "D:\\YouTube\\Interactions\\InteractionYoutube.cs",
+              "RelativeDocumentMoniker": "Interactions\\InteractionYoutube.cs",
+              "ToolTip": "D:\\YouTube\\Interactions\\InteractionYoutube.cs",
+              "RelativeToolTip": "Interactions\\InteractionYoutube.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwEcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:59:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoutubeWorkItemView.xaml.cs",
+              "DocumentMoniker": "D:\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "ToolTip": "D:\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "ViewState": "AQIAAMwBAAAAAAAAAAAAAM8BAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:44:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoutubeView.xaml",
+              "DocumentMoniker": "D:\\YouTube\\Controls\\YoutubeView.xaml",
+              "RelativeDocumentMoniker": "Controls\\YoutubeView.xaml",
+              "ToolTip": "D:\\YouTube\\Controls\\YoutubeView.xaml",
+              "RelativeToolTip": "Controls\\YoutubeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:39:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YoutubeOutboundToolbarView.xaml",
+              "DocumentMoniker": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "ToolTip": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T13:48:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractionOutboundYoutube.cs",
+              "DocumentMoniker": "D:\\YouTube\\Interactions\\InteractionOutboundYoutube.cs",
+              "RelativeDocumentMoniker": "Interactions\\InteractionOutboundYoutube.cs",
+              "ToolTip": "D:\\YouTube\\Interactions\\InteractionOutboundYoutube.cs",
+              "RelativeToolTip": "Interactions\\InteractionOutboundYoutube.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAIAwwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:43:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoutubeWorkItemViewModel.cs",
+              "DocumentMoniker": "D:\\YouTube\\ViewModels\\YoutubeWorkItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\YoutubeWorkItemViewModel.cs",
+              "ToolTip": "D:\\YouTube\\ViewModels\\YoutubeWorkItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\YoutubeWorkItemViewModel.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAABUwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:18:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YoutubeView.xaml.cs",
+              "DocumentMoniker": "D:\\YouTube\\Controls\\YoutubeView.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\YoutubeView.xaml.cs",
+              "ToolTip": "D:\\YouTube\\Controls\\YoutubeView.xaml.cs",
+              "RelativeToolTip": "Controls\\YoutubeView.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvy8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutboundInteractionHelper.cs",
+              "DocumentMoniker": "D:\\YouTube\\Interactions\\OutboundInteractionHelper.cs",
+              "RelativeDocumentMoniker": "Interactions\\OutboundInteractionHelper.cs",
+              "ToolTip": "D:\\YouTube\\Interactions\\OutboundInteractionHelper.cs",
+              "RelativeToolTip": "Interactions\\OutboundInteractionHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:37.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddComment.xaml.cs",
+              "DocumentMoniker": "D:\\YouTube\\Controls\\AddComment.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\AddComment.xaml.cs",
+              "ToolTip": "D:\\YouTube\\Controls\\AddComment.xaml.cs",
+              "RelativeToolTip": "Controls\\AddComment.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:49:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YoutubeWorkItemModule.cs",
+              "DocumentMoniker": "D:\\YouTube\\YoutubeWorkItemModule.cs",
+              "RelativeDocumentMoniker": "YoutubeWorkItemModule.cs",
+              "ToolTip": "D:\\YouTube\\YoutubeWorkItemModule.cs",
+              "RelativeToolTip": "YoutubeWorkItemModule.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAOEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:48:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "DocumentMoniker": "D:\\YouTube\\ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "RelativeDocumentMoniker": "ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "ToolTip": "D:\\YouTube\\ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "RelativeToolTip": "ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:48:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InteractionOutboundYoutubeControlExtension.cs",
+              "DocumentMoniker": "D:\\YouTube\\ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "RelativeDocumentMoniker": "ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "ToolTip": "D:\\YouTube\\ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "RelativeToolTip": "ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:10:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YoutubeEspCommand.cs",
+              "DocumentMoniker": "D:\\YouTube\\Commands\\YoutubeEspCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\YoutubeEspCommand.cs",
+              "ToolTip": "D:\\YouTube\\Commands\\YoutubeEspCommand.cs",
+              "RelativeToolTip": "Commands\\YoutubeEspCommand.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAGsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:31:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "DocumentMoniker": "D:\\YouTube\\Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "RelativeDocumentMoniker": "Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "ToolTip": "D:\\YouTube\\Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "RelativeToolTip": "Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T07:47:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YoutubeOutboundToolbarView.xaml.cs",
+              "DocumentMoniker": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "ToolTip": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:37:55.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YoutubeInboundToolbarView.xaml.cs",
+              "DocumentMoniker": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "ToolTip": "D:\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:41:09.468Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

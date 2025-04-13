@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebook" ResourceKey="sm_ic_iw_square_facebook_transfer"/>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.facebook" ResourceKey="sm_ic_iw_active_circle_facebook" />
+
+  <!-- Custom Image Contact-->
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.facebook" ResourceKey="sm_ic_facebook_square"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.facebook"  ResourceKey="sm_ic_facebook_square"/>
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.facebook"  Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/facebook.ico"  ResourceKey="sm_ic_iw_active_circle_facebook"/>
+ 
+  
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebook.Image" ResourceKey="sm_ic_iw_square_facebook_transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebook.Image" ResourceKey="sm_ic_iw_square_facebook_workbin"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebook.Image" ResourceKey="sm_ic_iw_square_facebook_transfer" />
+
+  <!-- Facebook -->
+  <Value Id="Facebook.Image.broken_image.Image"  Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_doc_no.png"  ResourceKey="sm_ic_doc_no" />
+  <Value Id="Facebook.Image.broken_profile_image.Image" ResourceKey="sm_ic_person" />
+
+  <!-- Actions -->
+  <Value Id="Facebook.Actions.Like.Image" ResourceKey="sm_ic_thumbs_up"/>
+  <Value Id="Facebook.Actions.Unlike.Image" ResourceKey="sm_ic_thumbs_down"/>
+  <Value Id="Facebook.Actions.NewComment.Image" ResourceKey="sm_ic_chat"/>
+  <Value Id="Facebook.Actions.Comment.Delete.Image" ResourceKey="sm_ic_close"/>
+  <Value Id="Facebook.Actions.CancelUnsolicitedOutbound.Image" ResourceKey="sm_ic_iw_square_facebook_no"/>
+  <Value Id="Facebook.Actions.HideImage.Image" ResourceKey="sm_ic_picture"/>
+  <Value Id="Facebook.Actions.Stream.Delete.Image" ResourceKey="sm_ic_close"/>
+  
+  <Value Id="Facebook.Actions.Comment.Attach" ResourceKey="FbChatsession_button_attach"/>
+  <Value Id="Facebook.Actions.Comment.Other" ResourceKey="FbChatsession_other"/>
+
+  <!-- Notifications Controls -->
+  <Value Id="Facebook.Notifications.Sex.Female.Image" ResourceKey="sm_ic_symbol_woman" />
+  <Value Id="Facebook.Notifications.Sex.Male.Image" ResourceKey="sm_ic_symbol_man" />
+  <Value Id="Facebook.Notifications.Likes.Image" ResourceKey="sm_ic_thumbs_up" />
+  <Value Id="Facebook.Notifications.IsLiked.Image" ResourceKey="sm_agent_like" />
+  <Value Id="Facebook.Notifications.Shared.Image" ResourceKey="sm_ic_share" />
+
+  <!--Reactions-->
+
+  <Value Id="Facebook.Notifications.Reaction.Refresh.Image" ResourceKey="sm_ic_refresh" />
+  <Value Id="Facebook.Notifications.Reaction.Angry.Image" ResourceKey="sm_reactions_angry" />
+  <Value Id="Facebook.Notifications.Reaction.Haha.Image" ResourceKey="sm_reactions_haha" />
+  <Value Id="Facebook.Notifications.Reaction.Like.Image" ResourceKey="sm_reactions_like" />
+  <Value Id="Facebook.Notifications.Reaction.Love.Image" ResourceKey="sm_reactions_love" />
+  <Value Id="Facebook.Notifications.Reaction.Sad.Image" ResourceKey="sm_reactions_sad" />
+  <Value Id="Facebook.Notifications.Reaction.Wow.Image" ResourceKey="sm_reactions_wow" />
+
+  <!-- NB Menu -->
+  <Value Id="Windows.Facebook.MenuItemMainDialerNewOutboundFacebook.Image" ResourceKey="sm_ic_facebook_square"/>
+  <Value Id="Facebook.MenuItemNewUnsolicitedPost.Image" ResourceKey="sm_ic_facebook_square"/>
+
+  <!-- Workbin Action -->
+  <Value Id="Windows.Facebook.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ResourceKey="sm_ic_iw_square_facebook_no" />
+</Dictionary>

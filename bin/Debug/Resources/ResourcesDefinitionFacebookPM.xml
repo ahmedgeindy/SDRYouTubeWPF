@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebookprivatemessage"  ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"/>
+  <Value Id="Channel.OpenMedia.WorkItem.Image.facebookprivatemessage" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png" />
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.facebookprivatemessage" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.facebookprivatemessage"  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"/>
+  <Value Id="InteractionWorkItem.Image.facebookprivatemessage"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/facebook.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"/>
+
+  <Value Id="Channel.OpenMedia.Bundle.facebookprivatemessage" DisplayName="Facebook PM" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"/>
+
+  
+  <Value Id="Windows.FacebookPM.MenuItemMainDialerNewOutboundFacebookPM.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_email.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebookprivatemessage.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebookprivatemessage.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_workbin.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebookprivatemessage.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png" />
+
+  <Value Id="FacebookPM.Actions.CancelUnsolicitedOutbound.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_no.png"/>
+
+  <Value Id="Windows.FacebookPM.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_no.png" />
+
+</Dictionary>

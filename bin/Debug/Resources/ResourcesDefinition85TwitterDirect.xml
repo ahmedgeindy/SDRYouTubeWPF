@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.twitterdirect" ResourceKey="sm_ic_iw_square_twitter_transfer"/>
+
+  <Value Id="Channel.OpenMedia.WorkItem.Image.twitterdirect" ResourceKey="sm_ic_iw_active_circle_twitterdirect" />
+  <!--Custom Image Contact-->
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.twitterdirect" ResourceKey="sm_ic_twitterdirect_square"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.twitterdirect"  ResourceKey="sm_ic_twitterdirect_square"/>
+  <!--Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.twitterdirect" Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/twitterdirect.ico"  ResourceKey="sm_ic_iw_active_circle_twitterdirect"/>
+  <!--It is new-->
+  <Value Id="TeamCommunicator.Images.Media.twitterdirect" ResourceKey="sm_ic_iw_active_circle_twitterdirect"/>
+  <Value Id="Twitter.Action.CancelUnsolicitedOutbound.Image"  ResourceKey="sm_ic_iw_square_twitter_no" />
+  <Value Id="Twitter.Notifications.Favorited.Image" ResourceKey="sm_ic_stars"  />
+  <Value Id="Twitter.Notifications.Followed.Image" ResourceKey="sm_ic_follow"  />
+  <Value Id="Twitter.Notifications.NotFollowed.Image" ResourceKey="sm_ic_follow_disable"  />
+  <Value Id="Twitter.Action.Follow.Image" ResourceKey="sm_ic_iw_square_twitter_follow" />
+  <Value Id="Twitter.Action.UnFollow.Image" ResourceKey="sm_ic_follow_disable" />
+  <Value Id="Twitter.Notifications.Follower.Image" ResourceKey="sm_ic_twitter" />
+  <Value Id="Twitter.Notifications.StatusesCount.Image" ResourceKey="sm_ic_iw_active_circle_twitterdirect" />
+  <Value Id="Twitter.Notifications.FollowersCount.Image" ResourceKey="sm_ic_people"  />
+  <Value Id="TwitterDirect.MenuItemNewUnsolicitedTweet.Image" ResourceKey="sm_ic_twitterdirect_square"/>
+  <Value Id="Windows.TwitterDirect.MenuItemMainDialerNewOutboundTwitterDirect.Image" ResourceKey="sm_ic_twitterdirect_square"/>
+  <Value Id="Windows.TwitterDirect.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ResourceKey="sm_ic_iw_square_twitter_no" />
+  <Value Id="Twitter.Notifications.CharsRemainingError.Image" ResourceKey="sm_ic_alert_octo" />
+  <Value Id="Twitter.Actions.RetweetWithComments.Image" ResourceKey="sm_ic_refresh_with_feedback"/>
+  <Value Id="Twitter.Actions.Retweet.Image"  ResourceKey="sm_ic_refresh"/>
+  <Value Id="Twitter.Actions.Reply.Image" ResourceKey="sm_ic_chat"/>
+  <Value Id="Twitter.Actions.ReplyToAll.Image" ResourceKey="sm_ic_chat_multi"/>
+  <Value Id="Twitter.Actions.DirectMessage.Image" ResourceKey="sm_ic_email"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.twitter.Image" ResourceKey="sm_ic_iw_square_twitter_transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.twitter.Image" ResourceKey="sm_ic_iw_square_twitter_workbin"/>
+</Dictionary>

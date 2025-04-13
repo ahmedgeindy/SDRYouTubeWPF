@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.instagram"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.instagram.Image" 
+         ToolTip="Instagram Transfer"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.instagram"
+	       Text="Instagram Transfer3" Tooltip="Instagram Transfer2"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.instagram.Image"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_workbin.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_workbin.png"/>
+
+  <Value Id="Instagram.Actions.CancelUnsolicitedOutbound.Image"
+          ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_stop.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_stop.png"/>
+
+  <Value Id="Windows.Instagram.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_stop.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram_stop.png"/>
+  
+</Dictionary>

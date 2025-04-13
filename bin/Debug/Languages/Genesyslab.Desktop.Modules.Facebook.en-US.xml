@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+  <Value Id="Windows.ToolbarFacebookView.Reply" ToolTip="Reply"  />
+
+  <Value Id="Windows.CustomWorkItemView.MediaType" Content="Media Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionType" Content="Interaction Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionSubType" Content="Interaction Sub-Type:" />
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebook" ToolTip="Transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebook" ToolTip="Move To Workbin"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebook" Text="_Transfer" Tooltip="Transfer"/>
+
+
+  <!-- Facebook -->
+  <Value Id="Facebook.Page.name" ToolTip="" Text="Name:" />
+  <Value Id="Facebook.Page.type" ToolTip="" Text="Type:" />
+  <Value Id="Facebook.User.first_name" ToolTip="" Text="First name:" />
+  <Value Id="Facebook.User.last_name" ToolTip="" Text="Last name:" />
+  <Value Id="Facebook.User.username" ToolTip="" Text="username:" />
+  <Value Id="Facebook.User.timezone" ToolTip="" Text="Timezone:" />
+  <Value Id="Facebook.User.status" ToolTip="" Text="Status:" />
+  <Value Id="Facebook.User.sex" ToolTip="" Text="Sex:" />
+  <Value Id="Facebook.User.religion" ToolTip="" Text="Religion:" />
+  <Value Id="Facebook.User.relationship_status" ToolTip="" Text="Relationship status:" />
+  <Value Id="Facebook.User.profile_update_time" ToolTip="" Text="Profile update time:" />
+  <Value Id="Facebook.User.profile_blurb" ToolTip="" Text="Profile blurb:" />
+  <Value Id="Facebook.User.political" ToolTip="" Text="Political:" />
+  <Value Id="Facebook.User.notes_count" ToolTip="" Text="Notes count:" />
+  <Value Id="Facebook.User.locale" ToolTip="" Text="Locale:" />
+  <Value Id="Facebook.User.is_blocked" ToolTip="" Text="Is blocked:" />
+  <Value Id="Facebook.User.hometown_location.city" ToolTip="" Text="Hometown location(city):" />
+  <Value Id="Facebook.User.hometown_location.state" ToolTip="" Text="Hometown location(state):" />
+  <Value Id="Facebook.User.hometown_location.country" ToolTip="" Text="Hometown location(country):" />
+  <Value Id="Facebook.Stream.description" ToolTip="" Text="Description:" />
+  <Value Id="Facebook.Stream.updated_time" ToolTip="" Text="Update time:" />
+  <Value Id="Facebook.Stream.comment_info.comment_count" ToolTip="" Text="Total comments count:" />
+  <Value Id="Facebook.Stream.comment_info.can_comment" ToolTip="" Text="Can create new comments:" />
+  <Value Id="Facebook.Stream.comment_info.comment_order" ToolTip="" Text="Comment order:" />
+  <Value Id="Facebook.Stream.comments.can_remove" ToolTip="" Text="Can remove comments:" />
+  <Value Id="Facebook.Stream.like_info.like_count" ToolTip="" Text="Likes:" />
+  <Value Id="Facebook.Stream.like_info.can_like" ToolTip="" Text="Channel user can like:" />
+  <Value Id="Facebook.Stream.like_info.user_likes" ToolTip="" Text="Channel user likes:" />
+
+  <Value Id="Facebook.Application.canvas_name" ToolTip="" Text="Canvas name:" />
+  <Value Id="Facebook.Application.display_name" ToolTip="" Text="Display name:" />
+  <Value Id="Facebook.Application.category" ToolTip="" Text="Category:" />
+  <Value Id="Facebook.Application.subcategory" ToolTip="" Text="Subcategory:" />
+  <Value Id="Facebook.Application.daily_active_users" ToolTip="" Text="Daily active users:" />
+  <Value Id="Facebook.Application.monthly_active_users" ToolTip="" Text="Monthly active users:" />
+  <Value Id="Facebook.Application.weekly_active_users" ToolTip="" Text="Weekly active users:" />
+  <Value Id="Facebook.Event.name" ToolTip="" Text="Name:" />
+  <Value Id="Facebook.Event.event_type" ToolTip="" Text="Type:" />
+  <Value Id="Facebook.Event.event_subtype" ToolTip="" Text="Subtype:" />
+  <Value Id="Facebook.Group.name" ToolTip="" Text="Name:" />
+  <Value Id="Facebook.Group.group_type" ToolTip="" Text="Type:" />
+  <Value Id="Facebook.Group.group_subtype" ToolTip="" Text="Subtype:" />
+
+
+  <Value Id="Facebook.Actions.Comment.RefreshReactions" ToolTip="Refresh reactions" Text="Refresh reactions" Content="Refresh reactions" Header="Refresh reactions" />
+  
+  <Value Id="Facebook.Actions.Reaction.Refresh.Error" Text="Can't get reactions" />
+  <Value Id="Facebook.Actions.Reaction.Refresh.ErrorCannotConnectToDms" Text="Can't get reactions: cannot execute ESP request" />
+  <Value Id="Facebook.Actions.Reaction.Refresh.ErrorCannotExecuteEsp" Text="Can't get reactions: cannot execute ESP request, some issue with params" />
+  <Value Id="Facebook.Actions.Reaction.Refresh.ErrorWithParsing" Text="Can't get reactions: failed to parse ESP response" />
+  <Value Id="Facebook.Actions.Reaction.Refresh.ErrorAccessDenied" Text="Can't get reactions: object cannot be loaded due to missing permissions or does not exists" />
+
+  <Value Id="Facebook.Actions.PossibleActions.Error" Text="Can't get possible actions" />
+  <Value Id="Facebook.Actions.PossibleActions.ErrorCannotConnectToDms" Text="Can't get possible actions: cannot execute ESP request" />
+  <Value Id="Facebook.Actions.PossibleActions.ErrorCannotExecuteEsp" Text="Can't get possible actions: invalid ESP request params" />
+  <Value Id="Facebook.Actions.PossibleActions.ErrorWithParsing" Text="Can't get possible actions: failed to parse ESP response" />
+  <Value Id="Facebook.Actions.PossibleActions.ErrorAccessDenied" Text="Can't get possible actions: access denied" />
+
+  <Value Id="Facebook.Notifications.Reaction.Refresh"  ToolTip="Refresh reactions" Header="Refresh reactions" />
+  <Value Id="Facebook.Notifications.Reaction.Angry"  ToolTip="Reaction : Angry" Header="Angry" />
+  <Value Id="Facebook.Notifications.Reaction.Haha"  ToolTip="Reaction : Haha" Header="Haha" />
+  <Value Id="Facebook.Notifications.Reaction.Like"  ToolTip="Reaction : Like" Header="Like" />
+  <Value Id="Facebook.Notifications.Reaction.Love"  ToolTip="Reaction : Love" Header="Love" />
+  <Value Id="Facebook.Notifications.Reaction.Sad"  ToolTip="Reaction : Sad" Header="Sad" />
+  <Value Id="Facebook.Notifications.Reaction.Wow"  ToolTip="Reaction : Wow" Header="Wow" />
+
+  <!-- Tab -->
+  <Value Id="Facebook.Tabs.Info.Post" ToolTip="Post" Content="Post" />
+  <Value Id="Facebook.Tabs.Info.Comment" ToolTip="Comment" Content="Commnet" />
+
+  
+  <!-- Actions -->
+  <Value Id="Facebook.Actions.Like" ToolTip="Like" Content="Like"  Text="Like" />
+  <Value Id="Facebook.Actions.Unlike" ToolTip="Unlike" Content="Unlike"  Text="Unlike" />
+  <Value Id="Facebook.Actions.NewComment" ToolTip="Create a new comment" Content="Comment"  Text="Comment" />
+  <Value Id="Facebook.Actions.Comment.ShowLess" ToolTip="Show less" Text="Show less" />
+  <Value Id="Facebook.Actions.Comment.Hide" ToolTip="Hide Comment" Text="Hide Comment" />
+  <Value Id="Facebook.Actions.Comment.View" ToolTip="View" Text="View" />
+  <Value Id="Facebook.Actions.Comments.ViewHide" BoundText="Comments : " />
+  <Value Id="Facebook.Actions.Comments.TotalComments" BoundText="Total Comments : " />
+  <Value Id="Facebook.Actions.Comments.TotalReplies" BoundText="Total Replies : " />
+  <Value Id="Facebook.Actions.Comments.Replies" BoundText="Replies : " />
+  <Value Id="Facebook.Actions.Comments.ExpandAll" Text="Expand All" />
+  <Value Id="Facebook.Actions.Comments.CollapseAll" Text="Collapse All" />
+  <Value Id="Facebook.Actions.Comments.ShowMore" Text="Show More" />
+  <Value Id="Facebook.Actions.Comment.Delete" ToolTip="Delete comment" Content="Delete" Header="Delete" />
+  <Value Id="Facebook.Actions.Comment.Delete.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Comment.Delete.Confirm" Content="Delete" />
+  <Value Id="Facebook.Actions.Comment.Delete.CofirmationWarning" Title="Delete comment" Text="Are you sure you want to delete this comment?" />
+  <Value Id="Facebook.Actions.Comment.Delete.Error" Text="Can't delete comment" />
+  <Value Id="Facebook.Actions.Comment.Hide" ToolTip="Hide comment" Content="Hide comment" Header="Hide comment" />
+  <Value Id="Facebook.Actions.Comment.Hide.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Comment.Hide.Confirm" Content="Hide comment" />
+  <Value Id="Facebook.Actions.Comment.Hide.CofirmationWarning" Title="Hide" Text="Are you sure you want to hide a comment?" />
+  <Value Id="Facebook.Actions.Comment.Hide.Error" Text="Can't hide the comment" />
+  <Value Id="Facebook.Actions.Comment.Unhide.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Comment.Unhide.Confirm" Content="Unhide comment" />
+  <Value Id="Facebook.Actions.Comment.Unhide.CofirmationWarning" Title="Unhide" Text="Are you sure you want to unhide comment?" />
+  <Value Id="Facebook.Actions.Comment.Unhide.Error" Text="Can't unhide the comment" />
+  <Value Id="Facebook.Actions.Comment.Send.Error" Text="Can't send new comment interaction" />
+  <Value Id="Facebook.Actions.Comment.Create.Error" Text="Can't create new comment interaction" />
+  <Value Id="Facebook.Actions.Comment.Attach" Text="Send File" ToolTip="Send File"/>
+  
+  <Value Id="Facebook.Actions.CancelUnsolicitedOutbound" ToolTip="Delete"/>
+  <Value Id="Facebook.Actions.Send" ToolTip="Send" Content="Send" />
+  <Value Id="Facebook.Actions.HideImage" ToolTip="Hide Image" Text="Hide Image" Header="Hide Image" />
+  <!-- new -->
+  <Value Id="Facebook.Actions.Edit" ToolTip="Edit" Content="Edit"  Text="Edit" />
+  <Value Id="Facebook.Actions.Apply" ToolTip="Apply" Content="Apply"  Text="Apply" />
+  <Value Id="Facebook.Actions.Cancel" ToolTip="Cancel" Content="Cancel"  Text="Cancel" />
+
+
+  <Value Id="Facebook.Actions.ShowHistory" ToolTip="Show historic comments" Text="Show History" />
+  <Value Id="Facebook.Actions.ShowHistory.Error" Text="Can't show comments from history" />
+  <Value Id="Facebook.Actions.ShowHistory.Shown" Text="Added {0} comments from history" />
+  
+
+  <Value Id="Facebook.Actions.Stream.Delete" ToolTip="Delete post" Content="Delete" Text="Delete" />
+  <Value Id="Facebook.Actions.Stream.Delete.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Stream.Delete.Confirm" Content="Delete" />
+  <Value Id="Facebook.Actions.Stream.Delete.CofirmationWarning" Title="Delete post" Text="Are you sure you want to delete this post?" />
+  <Value Id="Facebook.Actions.Stream.Delete.Error" Text="Can't delete post" />
+
+  <Value Id="Facebook.Actions.Stream.Hide" ToolTip="Hide Post" Content="Hide Post" Text="Hide Post" />
+  <Value Id="Facebook.Actions.Stream.Hide.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Stream.Hide.Confirm" Content="Hide Post" />
+  <Value Id="Facebook.Actions.Stream.Hide.CofirmationWarning" Title="Hide Post" Text="Are you sure you want to hide this post?" />
+  <Value Id="Facebook.Actions.Stream.Hide.Error" Text="Can't hide the post" />
+
+  <Value Id="Facebook.Actions.Stream.Unhide" ToolTip="Unhide" Content="Unhide Post" Text="Unhide Post" />
+  <Value Id="Facebook.Actions.Stream.Unhide.Cancel" Content="Cancel" />
+  <Value Id="Facebook.Actions.Stream.Unhide.Confirm" Content="Unhide post" />
+  <Value Id="Facebook.Actions.Stream.Unhide.CofirmationWarning" Title="Unhide Post" Text="Are you sure you want to unhide this post?" />
+  <Value Id="Facebook.Actions.Stream.Unhide.Error" Text="Can't unhide the post" />
+ 
+  <Value Id="Facebook.Actions.Stream.Edit.Error" Text="Can't edit facebook post" />
+  <Value Id="Facebook.Actions.Attachment.Error" Text="File is too large to attach" />
+
+  <!-- Notifications Controls -->
+  
+  <Value Id="Facebook.Notifications.Sex.Female" ToolTip="Female" Header="Female" />
+  <Value Id="Facebook.Notifications.Sex.Male" ToolTip="Male" Header="Male" />
+  
+  <Value Id="Facebook.Notifications.IsLiked" ToolTip="Liked by Agent" Header="Liked by Agent" />
+  <Value Id="Facebook.Notifications.Likes" ToolTip="Likes : " Header="Likes" />
+  <Value Id="Facebook.Notifications.Shared" ToolTip="Shared : " Header="Shared" />
+
+  <!-- Help -->
+  <Value Id="Windows.Facebook.HelpMenu" Header="Plug-In for Facebook Help..." />
+
+  <!-- NB Menu -->
+  <Value Id="Windows.Facebook.MenuItemMainDialerNewOutboundFacebook" Text="Facebook Post" Tooltip="Create a new Facebook Post" />
+
+  <Value Id="Facebook.MenuItemsPostUpdate" Text="Post Update" />
+  <Value Id="Facebook.MenuItemNewUnsolicitedPost" Text="Facebook" />
+
+  <!-- Confirmations -->
+
+  <!-- Errors -->
+  <Value Id="Facebook.Error.NoAccountList" ErrorCode="" ErrorMessage="Can't get facebook accounts from server"/>
+  
+
+  <!-- Outbound -->
+  <Value Id="Facebook.Outbound.Account" Content="Account:"/>
+
+  <!-- Workbin Action -->
+  <Value Id="Windows.Facebook.Workbin.MenuItemInteractionActionFromWorkbinDelete" Text="Delete" ToolTip="Delete"/>
+</Dictionary>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Channel.OpenMedia.WorkItem.Image.rss" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_rss.png" />
+
+  <!-- Custom Image Contact-->
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.rss" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_rss_square.png"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.rss"  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_rss.png"/>
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.rss" Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/RSS.ico" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_rss.png"/>
+
+
+  <Value Id="Channel.OpenMedia.Bundle.rss" DisplayName="RSS" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_rss.png"/>
+
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.rss" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_rss_transfer.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.rss" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_rss_workbin.png"/>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.rss" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_rss_transfer.png" />
+
+  <Value Id="RSS.RSSMainImage.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_rss_square.png"/>
+  <Value Id="RSS.Actions.ShowInfo.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_alert_info.png" />
+</Dictionary>

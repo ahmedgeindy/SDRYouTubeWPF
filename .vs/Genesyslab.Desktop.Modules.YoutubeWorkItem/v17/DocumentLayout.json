@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\configuration\\youtubeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:configuration\\youtubeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\configuration\\youtubetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:configuration\\youtubetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controls\\youtubeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\youtubeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\controls\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\post.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controls\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\controls\\addcomment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\addcomment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\interactions\\interactionoutboundyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\interactionoutboundyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\models\\youtubemoduleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:models\\youtubemoduleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\windows\\contentview\\youtubecontactdetailcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubecontactdetailcontentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\windows\\contentview\\youtubecontactdetailcontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubecontactdetailcontentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\viewmodels\\youtubecontactdetailcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:viewmodels\\youtubecontactdetailcontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controls\\youtubeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\youtubeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\youtubeworkitemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:youtubeworkitemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\windows\\contentview\\youtubeworkitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubeworkitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\windows\\contentview\\youtubeworkitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\youtubeworkitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\viewmodels\\youtubeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:viewmodels\\youtubeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\viewmodels\\youtubeworkitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:viewmodels\\youtubeworkitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\helpers\\youtubedatakeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:helpers\\youtubedatakeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|c:\\users\\ahmed genidy\\downloads\\youtube\\youtube\\helpers\\youtubedatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:helpers\\youtubedatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\interactions\\interactionyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\interactionyoutube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\interactions\\outboundinteractionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:interactions\\outboundinteractionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controlextensions\\interactionoutboundyoutubecontrolextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controlextensions\\interactionoutboundyoutubecontrolextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controlextensions\\toastercontrollerinteractionoutboundyoutubeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controlextensions\\toastercontrollerinteractionoutboundyoutubeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\controls\\addcomment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:controls\\addcomment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\commands\\youtubeespcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:commands\\youtubeespcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\languages\\genesyslab.desktop.modules.youtubeworkitem.en-us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:languages\\genesyslab.desktop.modules.youtubeworkitem.en-us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeoutboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}|Genesyslab.Desktop.Modules.YoutubeWorkItem.csproj|solutionrelative:windows\\contentview\\toolbar\\youtubeinboundtoolbarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 520,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoutubeTask.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Configuration\\YoutubeTask.cs",
+              "RelativeDocumentMoniker": "Configuration\\YoutubeTask.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Configuration\\YoutubeTask.cs",
+              "RelativeToolTip": "Configuration\\YoutubeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:38:55.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoutubeOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Configuration\\YoutubeOptions.cs",
+              "RelativeDocumentMoniker": "Configuration\\YoutubeOptions.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Configuration\\YoutubeOptions.cs",
+              "RelativeToolTip": "Configuration\\YoutubeOptions.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:38:38.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\Post.xaml",
+              "RelativeDocumentMoniker": "Controls\\Post.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\Post.xaml",
+              "RelativeToolTip": "Controls\\Post.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:38:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddComment.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\AddComment.xaml",
+              "RelativeDocumentMoniker": "Controls\\AddComment.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\AddComment.xaml",
+              "RelativeToolTip": "Controls\\AddComment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:38:29.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoutubeInboundToolbarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:36:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoutubeOutboundToolbarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T13:48:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\YoutubeView.xaml",
+              "RelativeDocumentMoniker": "Controls\\YoutubeView.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\YoutubeView.xaml",
+              "RelativeToolTip": "Controls\\YoutubeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:39:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InteractionOutboundYoutube.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\InteractionOutboundYoutube.cs",
+              "RelativeDocumentMoniker": "Interactions\\InteractionOutboundYoutube.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\InteractionOutboundYoutube.cs",
+              "RelativeToolTip": "Interactions\\InteractionOutboundYoutube.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIAwwDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:43:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YoutubeContactDetailContentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeContactDetailContentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\YoutubeContactDetailContentViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeContactDetailContentViewModel.cs",
+              "RelativeToolTip": "ViewModels\\YoutubeContactDetailContentViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:32:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YoutubeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\YoutubeView.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\YoutubeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\YoutubeView.xaml.cs",
+              "RelativeToolTip": "Controls\\YoutubeView.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwG8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:21.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YoutubeDataKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Helpers\\YoutubeDataKeyHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\YoutubeDataKeyHelper.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Helpers\\YoutubeDataKeyHelper.cs",
+              "RelativeToolTip": "Helpers\\YoutubeDataKeyHelper.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAQwLwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:23:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YoutubeDataKey.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Helpers\\YoutubeDataKey.cs",
+              "RelativeDocumentMoniker": "Helpers\\YoutubeDataKey.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Helpers\\YoutubeDataKey.cs",
+              "RelativeToolTip": "Helpers\\YoutubeDataKey.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:22:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InteractionYoutube.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\InteractionYoutube.cs",
+              "RelativeDocumentMoniker": "Interactions\\InteractionYoutube.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\InteractionYoutube.cs",
+              "RelativeToolTip": "Interactions\\InteractionYoutube.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwEcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:59:11.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\Comment.xaml",
+              "RelativeDocumentMoniker": "Controls\\Comment.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\Comment.xaml",
+              "RelativeToolTip": "Controls\\Comment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:40:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YoutubeModuleInit.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Models\\YoutubeModuleInit.cs",
+              "RelativeDocumentMoniker": "Models\\YoutubeModuleInit.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Models\\YoutubeModuleInit.cs",
+              "RelativeToolTip": "Models\\YoutubeModuleInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:37:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YoutubeContactDetailContentView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeContactDetailContentView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeContactDetailContentView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeContactDetailContentView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeContactDetailContentView.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:36:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "YoutubeContactDetailContentView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeContactDetailContentView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeContactDetailContentView.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeContactDetailContentView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeContactDetailContentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:33:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YoutubeWorkItemModule.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\YoutubeWorkItemModule.cs",
+              "RelativeDocumentMoniker": "YoutubeWorkItemModule.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\YoutubeWorkItemModule.cs",
+              "RelativeToolTip": "YoutubeWorkItemModule.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:48:57.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YoutubeWorkItemView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeWorkItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T07:35:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YoutubeWorkItemView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\YoutubeWorkItemView.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAALQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:44:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YoutubeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\YoutubeViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\YoutubeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:51:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YoutubeWorkItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeWorkItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\YoutubeWorkItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ViewModels\\YoutubeWorkItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\YoutubeWorkItemViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:18:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OutboundInteractionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\OutboundInteractionHelper.cs",
+              "RelativeDocumentMoniker": "Interactions\\OutboundInteractionHelper.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Interactions\\OutboundInteractionHelper.cs",
+              "RelativeToolTip": "Interactions\\OutboundInteractionHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:37.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddComment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\AddComment.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\AddComment.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Controls\\AddComment.xaml.cs",
+              "RelativeToolTip": "Controls\\AddComment.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:49:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "RelativeDocumentMoniker": "ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "RelativeToolTip": "ControlExtensions\\ToasterControllerInteractionOutboundYoutubeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:48:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InteractionOutboundYoutubeControlExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "RelativeDocumentMoniker": "ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "RelativeToolTip": "ControlExtensions\\InteractionOutboundYoutubeControlExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:10:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "YoutubeEspCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Commands\\YoutubeEspCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\YoutubeEspCommand.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Commands\\YoutubeEspCommand.cs",
+              "RelativeToolTip": "Commands\\YoutubeEspCommand.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAGsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:31:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "RelativeDocumentMoniker": "Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "RelativeToolTip": "Languages\\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T07:47:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "YoutubeOutboundToolbarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeOutboundToolbarView.xaml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:37:55.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "YoutubeInboundToolbarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed Genidy\\Downloads\\YouTube\\YouTube\\Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "RelativeToolTip": "Windows\\ContentView\\Toolbar\\YoutubeInboundToolbarView.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:41:09.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

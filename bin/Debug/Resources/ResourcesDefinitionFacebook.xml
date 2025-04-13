@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebook"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"/>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.facebook" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_facebook.png" />
+
+  <!-- Custom Image Contact-->
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.facebook" ImageUrl="/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_facebook_square.png"/>
+  <Value Id="InteractionWorkItem.MediaType.Image.facebook"  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_facebook_square.png"/>
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.facebook" Ico="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/facebook.ico" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_active_circle_facebook.png"/>
+
+
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.facebook.Image" 
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.facebook.Image" 
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_workbin.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_workbin.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.facebook.Image" 
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_transfer.png" />
+
+  <!-- Facebook -->
+  <Value Id="Facebook.Image.broken_image.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_doc_no.png" />
+  <Value Id="Facebook.Image.broken_profile_image.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_person.gif" />
+
+
+  <!-- Actions -->
+  <Value Id="Facebook.Actions.Like.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_thumbs_up.png"/>
+  <Value Id="Facebook.Actions.Unlike.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_thumbs_down.png"/>
+  <Value Id="Facebook.Actions.NewComment.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_chat.png"/>
+  <Value Id="Facebook.Actions.Comment.Delete.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_close.png"/>
+  <Value Id="Facebook.Actions.CancelUnsolicitedOutbound.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_no.png"/>
+  <Value Id="Facebook.Actions.HideImage.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_picture.png"/>
+  <Value Id="Facebook.Actions.Comment.Attach" ResourceKey="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_picture.png"/>
+
+  <Value Id="Facebook.Actions.Comment.Other" ResourceKey="FbChatsession_other"/>
+
+  <Value Id="Facebook.Actions.Stream.Delete.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_close.png"/>
+
+  <!-- Notifications Controls -->
+  <Value Id="Facebook.Notifications.Sex.Female.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_symbol_woman.png" />
+  <Value Id="Facebook.Notifications.Sex.Male.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_symbol_man.png" />
+
+  <Value Id="Facebook.Notifications.IsLiked.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_agent_like.png" />
+  <Value Id="Facebook.Notifications.Likes.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_thumbs_up.png" />
+  <Value Id="Facebook.Notifications.Shared.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_share.png" />
+
+  <!--Reactions-->
+
+  <Value Id="Facebook.Notifications.Reaction.Refresh.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_refresh.png" />
+  <Value Id="Facebook.Notifications.Reaction.Angry.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_angry.png" />
+  <Value Id="Facebook.Notifications.Reaction.Haha.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_haha.png" />
+  <Value Id="Facebook.Notifications.Reaction.Like.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_like.png" />
+  <Value Id="Facebook.Notifications.Reaction.Love.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_love.png" />
+  <Value Id="Facebook.Notifications.Reaction.Sad.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_sad.png" />
+  <Value Id="Facebook.Notifications.Reaction.Wow.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_reactions_wow.png" />
+
+  <!-- NB Menu -->
+  <Value Id="Windows.Facebook.MenuItemMainDialerNewOutboundFacebook.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_facebook_square.png"/>
+
+  <Value Id="Facebook.MenuItemNewUnsolicitedPost.Image" Source="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_facebook_square.png"/>
+
+  <!-- Workbin Action -->
+  <Value Id="Windows.Facebook.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.SocialMedia;component/Images/sm_ic_iw_square_facebook_no.png" />
+</Dictionary>

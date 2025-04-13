@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.youtube" ToolTip="Youtube Transfer"/>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.youtube" ToolTip="Move To Workbin"/>
+  <Value Id="Youtube.Actions.CancelUnsolicitedOutbound" ToolTip="Delete"/>
+
+  <Value Id="Windows.Youtube.Workbin.MenuItemInteractionActionFromWorkbinDelete" Text="Delete" ToolTip="Delete"/>
+
+  <Value Id="Youtube.Actions.Reply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="Youtube.Actions.Comment" ToolTip="Comment" Text="Comment" Header="Comment" />
+  <Value Id="Youtube.Actions.Send" ToolTip="Send" Text="Send" Header="Send" />
+  <Value Id="Youtube.Actions.Like" ToolTip="Like" Text="Like" Header="Like" />
+
+  <!-- Edit box actions -->
+  <Value Id="Youtube.Actions.SendReply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="Youtube.Actions.SendComment" ToolTip="Comment" Text="Comment" Header="Comment" />
+
+  <Value Id="Youtube.Actions.Delete" ToolTip="Delete" Text="Delete" Header="Delete" />
+  <Value Id="Youtube.Actions.Delete.CofirmationWarningComment" Title="Delete" Text="Are you sure you want to delete this comment?" />
+  <Value Id="Youtube.Actions.Delete.CofirmationWarningReply" Title="Delete" Text="Are you sure you want to delete this reply?" />
+
+  <Value Id="Youtube.Actions.SendInteraction.Error" Text="Can't send outbound interaction" />
+  <Value Id="Youtube.Actions.CreateInteraction.Error" Text="Can't create outbound interaction" />
+
+  <Value Id="Youtube.Actions.Delete.Error" Text="Can't delete" />
+  <Value Id="Youtube.Actions.Like.Error" Text="Can't like" />
+
+  <Value Id="Youtube.Actions.Send.EmptyError" Text="Can't send empty response" Title="Send"/>
+  <Value Id="Youtube.Actions.Send.LimitExceededError" Text="You have exceeded the maximum character limit" Title="Send"/>
+
+  <Value Id="Youtube.Actions.Deleted" Text="Deleted" Header="Deleted"  />
+  <Value Id="Youtube.Actions.At" Text="at" Header="at" />
+  <Value Id="Youtube.Actions.By" Text="by" Header="by"  />
+  
+  
+
+</Dictionary>

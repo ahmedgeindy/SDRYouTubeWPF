@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.youtube"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.youtube"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.youtube"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.youtube"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.youtube.Image"
+         ToolTip="Youtube Transfer"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.youtube"
+	       Text="Youtube Transfer" Tooltip="Youtube Transfer"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_transfer.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_transfer.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.youtube.Image"
+	       ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_workbin.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_workbin.png"/>
+
+  <Value Id="Youtube.Actions.CancelUnsolicitedOutbound.Image"
+          ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_stop.png"
+          Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_stop.png"/>
+
+  <Value Id="Windows.Youtube.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_stop.png"
+         Source="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube_stop.png"/>
+
+  
+</Dictionary>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Dictionary>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.youtube"
+  ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.youtube"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.youtube"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.youtube"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.YoutubeWorkItem;component/Images/youtube.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.youtube.Image" ToolTip="Youtube Transfer" ResourceKey="youtube_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.youtube" ToolTip="Youtube Transfer" ResourceKey="youtube_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.youtube.Image" ResourceKey="youtube_workbin"/>
+
+  <Value Id="Youtube.Actions.CancelUnsolicitedOutbound.Image" ResourceKey="youtube_stop"/>
+
+  <Value Id="Windows.Youtube.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ResourceKey="youtube_stop"/>
+
+
+
+</Dictionary>

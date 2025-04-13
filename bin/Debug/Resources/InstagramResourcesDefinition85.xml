@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Dictionary>
+
+  <!-- Custom Image Media-->
+  <Value Id="Channel.OpenMedia.WorkItem.Image.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"  />
+
+  <!-- Custom Image Interaction-->
+  <Value Id="InteractionWorkItem.Image.instagram"
+         Ico="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.ico"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+
+  <Value Id="Contacts.ContactHistoryView.InteractionWorkItem.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+  <Value Id="InteractionWorkItem.MediaType.Image.instagram"
+         ImageUrl="pack://application:,,,/Genesyslab.Desktop.Modules.InstagramWorkItem;component/Images/instagram.png"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.instagram.Image" ToolTip="Instagram Transfer" ResourceKey="instagram_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.instagram" ToolTip="Instagram Transfer" ResourceKey="instagram_transfer"/>
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.instagram.Image" ResourceKey="instagram_workbin"/>
+
+  <Value Id="Instagram.Actions.CancelUnsolicitedOutbound.Image" ResourceKey="instagram_stop"/>
+
+  <Value Id="Windows.Instagram.Workbin.MenuItemInteractionActionFromWorkbinDelete.Image" ResourceKey="instagram_stop"/>
+
+</Dictionary>

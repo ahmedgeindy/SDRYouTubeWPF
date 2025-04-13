@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary EnglishName="English" CultureName="English" Culture="en-US" CustomDictionary="true">
+
+
+
+  <Value Id="Windows.ToolbartwitterView.Reply" ToolTip="Reply"  />
+
+  <Value Id="Windows.CustomWorkItemView.MediaType" Content="Media Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionType" Content="Interaction Type:"/>
+  <Value Id="Windows.CustomWorkItemView.InteractionSubType" Content="Interaction Sub-Type:" />
+
+  <Value Id="Windows.ToolbarWorkitemView.ButtonTransfer.twitterdirect" ToolTip="Transfer"></Value>
+  <Value Id="Windows.ToolbarWorkitemView.ButtonMoveToWorkbin.twitterdirect" ToolTip="Move To Workbin"></Value>
+  <Value Id="Windows.ToolbarWorkitemView.MenuItemOneStepTransferDialer.twitterdirect" Text="_Transfer" Tooltip="Transfer"/>
+
+
+
+
+
+
+
+  <!-- Errors -->
+  <Value Id="Twitter.Error.Follow" ErrorCode="" ErrorMessage="Can't follow twitter user"/>
+  <Value Id="Twitter.Error.UnFollow" ErrorCode="" ErrorMessage="Can't unfollow twitter user"/>
+  <Value Id="Twitter.Error.NoMedia" ErrorCode="" ErrorMessage="No media available"/>
+  <Value Id="Twitter.Error.NoAccountList" ErrorCode="" ErrorMessage="Can't get twitter accounts from server"/>
+  <Value Id="Twitter.Error.NoAvailableAccount" ErrorCode="" ErrorMessage="Can't use any twitter account for direct message send"/>
+  <Value Id="Twitter.Error.Favorite" ErrorCode="" ErrorMessage="Can't Favorite tweet"/>
+  <Value Id="Twitter.Error.UnFavorite" ErrorCode="" ErrorMessage="Can't Unfavorite tweet"/>
+  <Value Id="Twitter.Error.ShowHistory.Error" Text="Can't show tweets from history" />
+
+  <!-- Confirmations -->
+  
+  <!-- Outbound -->
+  <Value Id="Twitter.Outbound.Timeline" Content="Timeline:" />
+  <Value Id="Twitter.Outbound.From" Content="From:" />
+
+
+  <!-- Actions -->
+  <Value Id="Twitter.Actions.SendReply" ToolTip="Send Reply" Content="Send Reply" />
+  <Value Id="Twitter.Actions.SendReplyToAll" ToolTip="Send Reply to All" Content="Send Reply to All" />
+  <Value Id="Twitter.Actions.SendDirectMessage" ToolTip="Send Direct Message" Content="Send Direct Message" />
+  <Value Id="Twitter.Actions.SendRetweet" ToolTip="Send Retweet" Content="Retweet" />
+  <Value Id="Twitter.Actions.SendRetweetQuestion" BoundText="Retweet this to your followers?" />
+  <Value Id="Twitter.Actions.CancelRetweet" ToolTip="Cancel Retweet" Content="Cancel" />
+  <Value Id="Twitter.Actions.SendRetweetWithComments" ToolTip="Send Retweet with Comments" Content="Send Retweet with Comments" />
+
+  <Value Id="Twitter.Actions.Reply" ToolTip="Reply" Text="Reply" Header="Reply" />
+  <Value Id="Twitter.Actions.ReplyToAll" ToolTip="Reply to all" Text="Reply To All" Header="Reply To All" />
+  <Value Id="Twitter.Actions.DirectMessage" ToolTip="Direct Message" Text="Direct Message" Header="Direct Message" />
+  <Value Id="Twitter.Actions.Retweet" ToolTip="Retweet" Text="Retweet" Header="Retweet" />
+  <Value Id="Twitter.Actions.RetweetWithComments" ToolTip="Retweet with Comments" Text="Retweet with Comments" Header="Retweet with Comments" />
+  <Value Id="Twitter.Actions.Favorite" ToolTip="Favorite" Text="Favorite" Header="Favorite" />
+  <Value Id="Twitter.Actions.Unfavorite" ToolTip="Unfavorite" Text="Unfavorite" Header="Unfavorite" />
+
+  <Value Id="Twitter.Action.Follow" ToolTip="Follow" Header="Follow"/>
+  <Value Id="Twitter.Action.UnFollow" ToolTip="Unfollow" Header="Unfollow"/>
+  <Value Id="Twitter.Action.CancelUnsolicitedOutbound"  ToolTip="Delete"/>
+  <Value Id="Twitter.Actions.Send" ToolTip="Send" Content="Send" />
+
+  <!-- new -->
+  <Value Id="Twitter.Actions.Delete" ToolTip="Delete" Text="Delete" Header="Delete" />
+  <Value Id="Twitter.Actions.Delete.CofirmationWarning" Title="Delete Tweet" Text="Are you sure you want to delete this Tweet?" />
+  <Value Id="Twitter.Actions.Delete.Error" Text="Can't delete Tweet" />
+
+
+
+
+
+  <!-- Notifications Controls -->
+  <Value Id="Twitter.Notifications.LikedBy"  ToolTip="Liked by " />
+  <Value Id="Twitter.Notifications.Liked"  ToolTip="Like " />
+  <Value Id="Twitter.Notifications.Unlike"  ToolTip="Unlike" />
+
+  <Value Id="Twitter.Notifications.Followed"  ToolTip="Followed" />
+  <Value Id="Twitter.Notifications.NotFollowed"  ToolTip="Not Followed" />
+
+  <Value Id="Twitter.Notifications.StatusesCount" ToolTip="Statuses Count"/>
+  <Value Id="Twitter.Notifications.FollowersCount" ToolTip="Followers Count" />
+
+  <Value Id="Twitter.Notifications.CharsRemaining" BoundText="Characters Remaining :" />
+  <Value Id="Twitter.Notifications.CharsRemainingError" ToolTip="You are over the characters number limit." />
+
+  <Value Id="Twitter.Notifications.Favorited" ToolTip="Favorited" />
+  
+
+  <!-- Help -->
+  <Value Id="Windows.TwitterDirect.HelpMenu" Header="Plug-In for Twitter Help..." />
+
+  <!-- NB Menu -->
+  <Value Id="Windows.TwitterDirect.MenuItemMainDialerNewOutboundTwitterDirect" Text="Twitter Direct Message" Tooltip="Create a new Direct Message" />
+  <Value Id="TwitterDirect.Action.AddingPicture" Content="Loading..." />
+  <Value Id="TwitterDirect.MenuItemNewUnsolicitedTweet" Text="TwitterDirect" />
+
+
+  <!-- Workbin Action -->
+  <Value Id="Windows.TwitterDirect.Workbin.MenuItemInteractionActionFromWorkbinDelete" Text="Delete" ToolTip="Delete" />
+
+
+
+
+</Dictionary>

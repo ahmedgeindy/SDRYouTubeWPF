@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE6AFC9F-CF0B-4432-ACB0-BD0F43185177}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Genesyslab.Desktop.Modules.YoutubeWorkItem</RootNamespace>
+    <AssemblyName>Genesyslab.Desktop.Modules.YoutubeWorkItem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\WDE_SDR\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\WDE_SDR\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Genesyslab.Desktop.Infrastructure">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Contacts">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.Contacts.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Core">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.OpenMedia">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.OpenMedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Sdr.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.Sdr.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.SocialMedia, Version=8.5.404.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.SocialMedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Windows">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.Modules.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.WPFCommon">
+      <HintPath>..\WDE_SDR\Genesyslab.Desktop.WPFCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Interaction, Version=8.5.128.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Enterprise.Interaction.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Model">
+      <HintPath>..\WDE_SDR\Genesyslab.Enterprise.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services">
+      <HintPath>..\WDE_SDR\Genesyslab.Enterprise.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services.Multimedia">
+      <HintPath>..\WDE_SDR\Genesyslab.Enterprise.Services.Multimedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel, Version=9.0.0.2, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons">
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Collections">
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.Commons.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Protocols, Version=9.0.0.2, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.Commons.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Contacts.Protocols">
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.Contacts.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.OpenMedia.Protocols, Version=9.0.0.2, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WDE_SDR\Genesyslab.Platform.OpenMedia.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Composite">
+      <HintPath>..\WDE_SDR\Microsoft.Practices.Composite.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="Tomers.WPF.Localization">
+      <HintPath>..\WDE_SDR\Tomers.WPF.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\SaveUnsavedUserDataCommandYoutube.cs" />
+    <Compile Include="Commands\YoutubeEspCommand.cs" />
+    <Compile Include="Configuration\YoutubeOptions.cs" />
+    <Compile Include="Configuration\YoutubeTask.cs" />
+    <Compile Include="ControlExtensions\InteractionManagerInteractionOpenMediaExtensionYoutube.cs" />
+    <Compile Include="ControlExtensions\InteractionOutboundYoutubeControlExtension.cs" />
+    <Compile Include="ControlExtensions\InteractionYoutubeControlExtension.cs" />
+    <Compile Include="ControlExtensions\RoutingBasedInteractionYoutube.cs" />
+    <Compile Include="ControlExtensions\ToasterControllerInteractionOutboundYoutubeExtension.cs" />
+    <Compile Include="ControlExtensions\ToasterControllerInteractionYoutubeExtension.cs" />
+    <Compile Include="ControlExtensions\YoutubeContactDetailControlExtension.cs" />
+    <Compile Include="ControlExtensions\YoutubeToasterExtension.cs" />
+    <Compile Include="Controls\AddComment.xaml.cs">
+      <DependentUpon>AddComment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Comment.xaml.cs">
+      <DependentUpon>Comment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DeleteInfo.xaml.cs">
+      <DependentUpon>DeleteInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Post.xaml.cs">
+      <DependentUpon>Post.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\YoutubeView.xaml.cs">
+      <DependentUpon>YoutubeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Events\EventHandlers.cs" />
+    <Compile Include="Events\RoutedActionEventArgs.cs" />
+    <Compile Include="Events\SendEventArgs.cs" />
+    <Compile Include="Events\YoutubeActionEventArgs.cs" />
+    <Compile Include="Helpers\Helper.cs" />
+    <Compile Include="Helpers\YoutubeDataKey.cs" />
+    <Compile Include="Helpers\LanguageDictionaryHelper.cs" />
+    <Compile Include="Helpers\YoutubeDataKeyHelper.cs" />
+    <Compile Include="Helpers\YoutubeDefaultData.cs" />
+    <Compile Include="Helpers\YoutubeOutboundInteractionHelper.cs" />
+    <Compile Include="Interactions\InteractionOutboundYoutube.cs" />
+    <Compile Include="Interactions\InteractionYoutube.cs" />
+    <Compile Include="Interactions\OutboundInteractionHelper.cs" />
+    <Compile Include="Models\YoutubeModuleInit.cs" />
+    <Compile Include="ViewModels\AddCommentViewModel.cs" />
+    <Compile Include="ViewModels\CommentViewModel.cs" />
+    <Compile Include="ViewModels\Interfaces\IYoutubeContactDetailContentViewModel.cs" />
+    <Compile Include="ViewModels\Interfaces\IYoutubeWorkItemViewModel.cs" />
+    <Compile Include="ViewModels\Interfaces\Toolbar\IYoutubeInboundToolbarViewModel.cs" />
+    <Compile Include="ViewModels\Interfaces\Toolbar\IYoutubeOutboundToolbarViewModel.cs" />
+    <Compile Include="ViewModels\PostViewModel.cs" />
+    <Compile Include="ViewModels\Toolbar\YoutubeInboundToolbarViewModel.cs" />
+    <Compile Include="ViewModels\Toolbar\YoutubeOutboundToolbarViewModel.cs" />
+    <Compile Include="ViewModels\YoutubeContactDetailContentViewModel.cs" />
+    <Compile Include="ViewModels\YoutubeViewModel.cs" />
+    <Compile Include="ViewModels\YoutubeWorkItemViewModel.cs" />
+    <Compile Include="Windows\ContentView\Interfaces\IYoutubeContactDetailContentView.cs" />
+    <Compile Include="Windows\ContentView\Interfaces\IYoutubeWorkItemView.cs" />
+    <Compile Include="Windows\ContentView\Interfaces\Toolbar\IYoutubeInboundToolbarView.cs" />
+    <Compile Include="Windows\ContentView\Interfaces\Toolbar\IYoutubeOutboundToolbarView.cs" />
+    <Compile Include="Windows\ContentView\Toolbar\YoutubeInboundToolbarView.xaml.cs">
+      <DependentUpon>YoutubeInboundToolbarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ContentView\Toolbar\YoutubeOutboundToolbarView.xaml.cs">
+      <DependentUpon>YoutubeOutboundToolbarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ContentView\YoutubeContactDetailContentView.xaml.cs">
+      <DependentUpon>YoutubeContactDetailContentView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ContentView\YoutubeWorkItemView.xaml.cs">
+      <DependentUpon>YoutubeWorkItemView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeWorkItemModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Like.png" />
+    <Resource Include="Images\LikeIcon.png" />
+    <Resource Include="Images\Menu.png" />
+    <Resource Include="Images\MenuRed.png" />
+    <Resource Include="Images\YoutubeLogo.png" />
+    <Resource Include="Images\YoutubeLogo25x.png" />
+    <Resource Include="Images\YoutubePlay.png" />
+    <Resource Include="Images\emptyprofile.png" />
+    <Resource Include="Images\youtube_stop.png" />
+    <Resource Include="Images\youtube_transfer.png" />
+    <Resource Include="Images\youtube_workbin.png" />
+    <Content Include="Languages\Genesyslab.Desktop.Modules.YoutubeWorkItem.en-US.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\YoutubeResourcesDefinition.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\YoutubeResourcesDefinition85.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\youtube.ico" />
+    <Resource Include="Images\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Controls\AddComment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Comment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\DeleteInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Post.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\YoutubeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\YoutubeMainStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\YoutubeTransferVector.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ContentView\Toolbar\YoutubeInboundToolbarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ContentView\Toolbar\YoutubeOutboundToolbarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ContentView\YoutubeContactDetailContentView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ContentView\YoutubeWorkItemView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Genesyslab.Desktop.Modules.YoutubeWorkItem.module-config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>
